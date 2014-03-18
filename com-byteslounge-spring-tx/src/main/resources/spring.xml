@@ -31,5 +31,7 @@
 	<bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
 		<property name="entityManagerFactory" ref="entityManagerFactory" />
 	</bean>
+	<bean id="test1" class="com.byteslounge.spring.tx.TestBean"/>
+	
 
 </beans>

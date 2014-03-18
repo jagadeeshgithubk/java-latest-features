@@ -12,7 +12,7 @@
 			<groupId>com.mymojo</groupId>
 			<artifactId>mojotest</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-  		 <executions>
+  	<!-- 	 <executions>
                     <execution>
                     <phase>clean</phase>
                         <goals>
@@ -20,15 +20,24 @@
                         <goal>secondMojoGoal</goal>
                         </goals>
                     </execution>
-                </executions>
+                </executions> -->
   
-<!--      <executions>
+<!--        <executions>
+                  <execution>
+                    <phase>clean</phase>
+                        <goals>
+                        <goal>secondMojoGoal</goal>
+                        </goals>
+                    </execution>
+       
+ -->
+ <executions>
      <execution>
-     <phase>compile</phase>
-     <goals><goal>secondMojoGoal</goal></goals>
+<!--       <phase>compile</phase>
+ -->      <goals><goal>compile</goal></goals>
      </execution>
      </executions>
- -->     </plugin>
+        </plugin>
 	</plugins>
 </build>
 </project>

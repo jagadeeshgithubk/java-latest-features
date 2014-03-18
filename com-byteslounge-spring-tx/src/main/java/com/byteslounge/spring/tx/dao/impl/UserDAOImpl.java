@@ -15,6 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.byteslounge.spring.tx.dao.UserDAO;
 import com.byteslounge.spring.tx.model.TestJpaTableEntity;
 
+
 @Repository
 public class UserDAOImpl implements UserDAO {
 

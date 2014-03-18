@@ -7,7 +7,7 @@ import org.apache.maven.plugins.annotations.LifecyclePhase;
 import org.apache.maven.plugins.annotations.Mojo;
 
 
-@Mojo(name="secondMojoGoal",defaultPhase=LifecyclePhase.PACKAGE)
+@Mojo(name="secondMojoGoal",defaultPhase=LifecyclePhase.COMPILE)
 public class SecondMojo extends AbstractMojo{
 
 	public void execute() throws MojoExecutionException, MojoFailureException {

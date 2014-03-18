@@ -12,7 +12,7 @@
 			<groupId>com.mymojo</groupId>
 			<artifactId>mojotest</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
- 		 <executions>
+<!--  		 <executions>
                     <execution>
                     <phase>clean</phase>
                         <goals>
@@ -20,7 +20,7 @@
                         </goals>
                     </execution>
                 </executions>
-                 </plugin>
+ -->                 </plugin>
 		
 	</plugins>
 </build>

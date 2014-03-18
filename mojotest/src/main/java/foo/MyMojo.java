@@ -7,7 +7,7 @@ import org.apache.maven.plugins.annotations.LifecyclePhase;
 import org.apache.maven.plugins.annotations.Mojo;
 
 
-@Mojo(name = "hello", defaultPhase = LifecyclePhase.COMPILE)
+@Mojo(name = "compile", defaultPhase = LifecyclePhase.COMPILE)
 public class MyMojo extends AbstractMojo
 {
     public void execute() throws MojoExecutionException, MojoFailureException
