@@ -1,0 +1,4154 @@
+Eclipse short cut keys:
+http://www.keyxl.com/aaac600/286/Eclipse-3-keyboard-shortcuts.htm
+http://www.hungama.com/music#/music/tamil-songs/711	
+http://www.fb.walww.com 
+
+Gmail:
+https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?shva%3D1&ss=1&scc=1&ltmpl=default&ltmplcache=2#label/LIC
+
+UAT
+http://10.0.11.62:8080/MDBDataManager/login.jsp
+
+DEV
+http://uskoppdm51d.yellglobal.net:8080/MDBDataManager/login.jsp;jsessionid=783DA66E4423EDB9F3B54D6727F287B2
+
+ehour link:
+http://192.168.132.167:8080/ehour/eh/login
+
+
+Sencha thread post:
+http://www.sencha.com/forum/forumdisplay.php?6-Ext-Open-Discussion
+
+eclipse:eclipse -DdownloadSources=true
+
+YELLOWBOOK\kongaj01a
+JagL7617
+
+     <script type="text/javascript" src="ZeroClipboard.js"></script>
+
+http://192.168.134.152/9890
+
+Bc,listtype,bussinetype,user,useraction,timestamp,sourcetab
+
+UAT URL:
+http://10.0.11.62:8080/MDBDataManager/
+v_reddyc01
+RajA@0408
+
+
+
+
+181 123 721
+
+ru4d13
+
+
+v_reddyc01a
+RajA@1234
+
+v_reddyc01
+SunDay44
+4697
+
+-Xmx1440m
+
+Tomcat:
+admin/password
+
+DEV server
+http://uskoppdm51d.yellglobal.net:8080/
+
+fileZilla : purisma/CsNuR6bn
+port : 22
+/opt/purisma/apache-tomcat-6.0.18/webapps
+
+UAT server
+ybkoppbe01.corp.ybusa.net
+
+MDM support portal:
+https://mysupport.informatica.com/infakb/solution/21/Pages/140241.aspx?docid=140241&type=external&index=1&myk=SIP-14015
+
+
+property file:
+/opt/purisma/extconfig
+/opt/purisma/extconfig
+/opt/purisma/extconfig
+
+
+08851050027063
+JAGADEESHBABU KONEGARU
+BTM LAYOUT
+
+https://ybkopsubv01.corp.ybusa.net/svn/DataTeam/dataapp-common/branches/parent-pom/1.0.0
+
+Share Point:
+https://sphub.yellglobal.com/pmo/businessdataservices/datamanager/Design/Forms/AllItems.aspx
+
+shared drive: 
+\\192.168.128.250
+
+		bookCodePanel.setHeight("30");
+
+
+YB url:
+https://portal.yb.clippersystem.net/CookieAuth.dll?GetLogon?curl=Z2F&reason=0&formdir=2
+
+yell1@IB1157
+chaitra@IB1157
+
+Narayan:
+IB1161
+narayanan12#
+
+Surya:
+IB1556
+Welcome321@
+
+1000000596
+
+HDFCbank
+08851050027063 
+JAGADEESHBABU KONEGARU
+BTM LAYOUT
+
+
+/**
+		 * Release 34: Ability to Select All or Multiple Search Results on the Source Side
+		 * Copy sources to Cmptape Grid Store.
+		 * @param modelsToBeMoved the models to be moved
+		 */
+copySourcesToCmpTapeStore
+netBKnopassword@999
+
+03861130002285
+0000386
+
+TimeSheet:
+http://planview.corp.ybusa.net/planview/portal/main.asp
+IB1123
+nopassword@999
+
+WSR:05141050076874
+\\192.168.134.196\wsr\
+MIngle:
+https://minglehosting.thoughtworks.com/yellowbook/projects/data_manager
+jagadeesh.kongara
+nopassword
+
+APSRTC:
+jaggu9.k
+nopassword
+33301
+sdd
+sdd
+
+On call support for Data Manager:
+itiflowapp.support@yellglobal.com 
+
+Javadoc:
+http://jautodoc.sourceforge.net/
+
+Tickets:
+https://ybkopsubv01.corp.ybusa.net/trac/report/64
+
+woodstocks:wstx-asl.java
+
+WIKI:
+https://ybkopsubv01.corp.ybusa.net/wiki/index.php5/MDB2-DM_December_2012_Sprint_Scope
+https://ybkopsubv01.corp.ybusa.net/wiki/index.php5/Main_Page
+
+Hudson link:
+http://ybkopbld04.corp.ybusa.net/hudson/view/DataManager-Current%20Sprint/job/DataManagerGWT.June2012/	
+
+New Requirements:
+https://ybkopsubv01.corp.ybusa.net/trac/wiki/2012_05sprint_dm
+https://ybkopsubv01.corp.ybusa.net/wiki/index.php5/MDB2-DM_April_2012_Sprint_Scope
+
+TP:
+http://192.168.134.209/TargetProcess1/Project/Planning/UserStory/List.aspx?acid=56B47A374989E87FC3C87D817A69C46E
+jagdeesh
+tpuser5
+
+Gmail:
+https://mail.google.com/mail/?shva=1#spam
+
+EXT- Demo:
+http://www.sencha.com/examples/explorer.html#overview
+
+Leave plans:
+192.168.132.232
+root
+password
+
+PF Acc info:
+http://59.180.233.84/epfo/member_balance/member_balance.php?officename=BANGALORE
+
+folder ,
+
+/MDB2
+open in filezilla
+
+
+http://java2script.org/
+
+Debug mode classpath:
+JPDA_ADDRESS : 8000
+JPDA_TRANSPORT: dt_socket
+configureCommentsTypeField(WYGGridCommentsSectionWidget.java:137)
+WYGGridCommentsSectionWidget.java:137)
+ListingWidgetModel.
+
+
+ANDB0000033
+
+hdfcnumber:5264190143268679
+2020
+603
+
+Examples logics:
+http://projecteuler.net/problem=48
+
+	at com.yellowbook.mdb.client.whiteAndYellowPageGrids.widgets.competitiveBooks.search.WYGCompetitiveBooksSearchWidget.addFieldsToSearchPanel(WYGCompetitiveBooksSearchWidget.java:60)
+
+maven dynamic web project:
+mvn eclipse:eclipse -Dwtpversion=2.0
+
+1    ----   ListingWidgetModel   --- CHANGED - done
+2    ----  ModifyGenericCaptionWidget----- CHANGED - done
+
+
+      ACIDS CAPTION
+
+
+3--  DO_NOT_PUBLISH NOT IN('N') -    -- doNotPublish -- left
+  Bernie's Auto Service Inc  ---- 20000136163
+			(P) -	Air Shield Awnings.com Inc ---  1583275  ---  Air Shield*
+				Freehold Township*
+				descending --- null should come
+				
+		BusinessLocationComparator
+4 ---  captiondetails tab --- has data   ---  didn't find any issues
+
+
+
+https://ybkopsubv01.corp.ybusa.net/wiki/index.php5/DM:_Do_Not_Publish_%28DNP%29
+
+Mdbids:
+4826962
+10004608463
+1343296
+10005831071
+10008611504
+10013406897
+10011161272
+10016129733
+4341270
+1343296
+1419466
+2739745
+10000816548
+10003863473
+
+RCF
+1017814
+1049976
+
+1024490 - andy
+6021833
+5061154
+6021067
+1025844
+4392711
+40000471858
+6021840
+6018744
+11603388
+1024214
+12877989
+5332931
+6939123
+10059364
+1022605
+6018926
+2656152
+4148368
+9065002
+2673546
+
+DNP-B
+20000136163
+1525636
+1522199
+1542355
+1512578
+1558793
+1568451
+1575676
+1576102
+1580399
+
+
+DNP-I
+1463726
+30000417511
+1679015
+30000797556
+2049373
+2438281
+10002753625
+1615372
+10004070556
+
+DNP-P
+1583275
+1459114
+30000868213
+3205222
+30000411100
+3391764
+2275989
+2352831
+
+Inactive records:
+
+1029947
+4825782
+4380723
+4148728
+12612401
+1049538
+4389430
+7170063
+12612327
+
+
+-----------    27th dec    ----
+BORDER-TOP: solid;
+
+
+String startDate
+
+
+retrieveBusinessesByLocationInfoForNewListings
+
+
+Caused by: org.springframework.transaction.TransactionSystemException: Could not roll back Hibernate transaction; nested exception is org.hibernate.TransactionException: JDBC rollback failed
+
+   public class ListingsWidget extends LayoutContainer {
+	private ContentPanel searchResultPanel;  
+	private Grid<ListingSearchResult> listingDataGrid;
+	private Grid<NewListingReportResult> listingDataGridForNewListings;
+
+For Phone Search:
+
+[INFO] inside getRemoteProxyNewListings
+[INFO] 12:40:02,406  INFO BusinessLocationService:142 - retrieveBusinessesByLocationInfoForNewListings entered in service
+[INFO] 12:40:02,406  INFO BusinessLocationDaoImpl:884 - retrieveBusinessesByLocationInfoForNewListings entered in dao
+[INFO] Hibernate: 
+[INFO]     /* dynamic native SQL query */ select
+[INFO]         * 
+[INFO]     from
+[INFO]         add_master_base mbr 
+[INFO]     where
+[INFO]         PHONENUMBER = '9073522505'
+[INFO]     order by
+[INFO]         CREATE_DATE DESC
+[INFO] Hibernate: 
+[INFO]     /* dynamic native SQL query */ select
+[INFO]         * 
+[INFO]     from
+[INFO]         ( select
+[INFO]             * 
+[INFO]         from
+[INFO]             add_master_base mbr 
+[INFO]         where
+[INFO]             PHONENUMBER = '9073522505'
+[INFO]         order by
+[INFO]             CREATE_DATE DESC ) 
+[INFO]     where
+[INFO]         rownum <= ?
+[INFO] 12:40:03,296  INFO BusinessLocationClientServiceImpl:161 - Inside createListingDataModelFromBusinessLocationForNewListings
+[INFO] 12:40:03,312  INFO BusinessLocationClientServiceImpl:211 - Inside createSearchResultsForNewListings(AddMasterBase newListing) 
+[INFO] 12:40:03,312  INFO BusinessLocationClientServiceImpl:211 - Inside createSearchResultsForNewListings(AddMasterBase newListing) 
+
+
+
+
+case NEWLISTINGSREPORT_Location_Search:
+			
+			listingDataModel.populateListDataModelForNewListingsByLocation(searchData);
+			buildListingDataGridForNewListings();
+			registerPaginationListenerForNewListings();
+			initSearchResultPanelForNewListings(searchType);
+			listingDataGridForNewListings.setStyleName("searchResult");
+			searchResultPanel.setSize("1100px", "485px");
+			add(searchResultPanel);
+
+			break;
+
+
+ListingWidget.java   -----  case NEWLISTINGSREPORT_Date_Search:
+
+getListingCountBetweenDates
+
+
+@Override
+	public List<DataManagerHeadings> retrieveHeadingsForAddListing(final String value)throws DataManagerDaoException {
+		
+		List<DataManagerHeadings> heading = this.getHibernateTemplate().executeFind(
+				new HibernateCallback() {
+					@Override
+					public Object doInHibernate(Session session) throws HibernateException, SQLException {
+						String sqlQuery = "select * from (select distinct heading_code, " +
+								"description, type from vw_dm_heading) heading where lower(heading.description) " +
+								"like '" + value.toLowerCase() +"%'";
+						SQLQuery query = session.createSQLQuery(sqlQuery);
+						query.addEntity(DataManagerHeadings.class);
+						List<DataManagerHeadings> headings = query.list();
+						return headings;
+					}
+
+				});
+		return heading;
+	}
+
+
+
+
+
+
+
+
+
+
+
+47871699
+
+
+
+select
+         KEYID,
+         SETID,
+         NAME,
+         CAPTION,
+         STREET,
+         CITY,
+         STATE,
+         ZIP,
+         ZIP_4,
+         PHONE,
+         HEADINGTEXT,
+         UDAC,
+         BUSRES,
+         INDENT,
+         RATE,
+         EMAIL,
+         URL,
+         HEADINGCODE,
+         HEADINGWEIGHT,
+         TRADENAME,
+         TRADECAPTION,
+         TRADESUBCAPTION,
+         TRADESUB1CAPTION,
+         DESIGNATION,
+         YPPA_CODE,
+         BOOK_YEAR,
+         FILENAME,
+         YB_PROCESS_DATE,
+         YB_PROCESSED_TYPE,
+         YB_LAST_UPDATE  
+     from
+         stg_keyed_biz_gs skb 
+     where
+         skb.setid in (47871699)
+         order by
+             keyid
+
+
+
+
+
+
+30001000479
+30000002343
+30000002345
+30000002346
+30000002347
+30000002348
+30000002349
+30000002350
+30000002351
+30000002270
+30000002271
+30000002272
+30000002273
+30000002274
+30000002275
+30000002277
+30000002279
+30000002281
+30000002283
+30000002285
+30000002188
+30000002190
+30000002192
+
+30000994757
+30003213390
+30001027739
+30001007804
+30000994757
+30000993209
+30001009740
+30001381953
+30001027297
+30004291649
+30003208376
+30001001731
+30001024679
+30009431054
+30009430886
+30001013444
+30001023752
+30009717040
+30009717001
+30009717015
+30009717038
+
+
+5 ----  
+
+MDB2
+
+vip-ybkopracdb51t.corp.ybusa.net
+1521
+MKTD1
+		
+
+
+
+
+
+ field1:139 Lottsville Niobe Rd :field2:275 Burlington Rd 
+[INFO] field1:275 Burlington Rd :field2:Burlington Rd 
+[INFO] field1:Burlington Rd :field2:191 Dutch Lane Rd 
+[INFO] field1:275 Burlington Rd :field2:191 Dutch Lane Rd 
+[INFO] field1:139 Lottsville Niobe Rd :field2:191 Dutch Lane Rd 
+[INFO] field1:Burlington Rd :field2:275 Burlington Rd 
+[INFO] field1:275 Burlington Rd :field2:275 Burlington Rd 
+[INFO] field1:47 Jean Brennan Dr :field2:271 Elton Adelphia Rd 
+[INFO] field1:47 Jean Brennan Dr :field2:Elton Adelphia Rd 
+[INFO] field1:Elton Adelphia Rd :field2:68 Jackson Mills Rd 
+[INFO] field1:47 Jean Brennan Dr :field2:68 Jackson Mills Rd 
+[INFO] field1:Elton Adelphia Rd :field2:279 Burlington Rd 
+[INFO] field1:68 Jackson Mills Rd :field2:279 Burlington Rd 
+[INFO] field1:47 Jean Brennan Dr :field2:279 Burlington Rd 
+[INFO] field1:271 Elton Adelphia Rd :field2:279 Burlington Rd 
+[INFO] field1:Burlington Rd :field2:271 Elton Adelphia Rd 
+[INFO] field1:139 Lottsville Niobe Rd :field2:271 Elton Adelphia Rd 
+[INFO] field1:191 Dutch Lane Rd :field2:271 Elton Adelphia Rd 
+[INFO] field1:275 Burlington Rd :field2:271 Elton Adelphia Rd 
+[INFO] field1:275 Burlington Rd :field2:279 Burlington Rd 
+[INFO] field1:275 Burlington Rd :field2:279 Burlington Rd 
+[INFO] field1:Burlington Rd :field2:279 Burlington Rd 
+[INFO] field1:Burlington Rd :field2:47 Jean Brennan Dr 
+[INFO] field1:Burlington Rd :field2:68 Jackson Mills Rd 
+[INFO] field1:Burlington Rd :field2:Elton Adelphia Rd 
+
+
+
+
+
+
+
+
+	if (sortDir.equalsIgnoreCase("desc")) {
+				System.out.println("DSC:field1:"+field1+":field2:"+field2);
+				if((field1 == null && field2 == null) || (field1 == "" && field2 == "")) {
+					return 0;
+				}else if((field1 != null && field2 == null) || (field1 != ""  && field2 == ""))  {
+					//Doing this to match Oracle sorting
+					return +1;
+				} else if ((field1 == null && field2 != null) || (field1 == ""  && field2 != ""))  {
+					return -1;
+				} else {
+					System.out.println("return (-1) * field1.compareToIgnoreCase(field2):"+(-1) * field1.compareToIgnoreCase(field2));
+					return (-1) * field1.compareToIgnoreCase(field2);
+				}
+				
+			} else {
+				System.out.println("ACE: field1:"+field1+":field2:"+field2);
+				if((field1 == null && field2 == null) || (field1 == "" && field2 == "")) {
+					return 0;				
+				}else if((field1 != null && field2 == null) || (field1 != ""  && field2 == "")) {
+					//Doing this to match Oracle sorting
+					return -1;
+				} else if ((field1 == null && field2 != null) || (field1 == ""  && field2 != "")) {
+					return +1;
+				} else {				
+					System.out.println("return (-1) * field1.compareToIgnoreCase(field2):"+field1.compareToIgnoreCase(field2));
+					return field1.compareToIgnoreCase(field2);
+				}
+			}
+
+
+
+
+
+
+
+		if (sortDir.equalsIgnoreCase("desc")) {
+				
+				if((field1 == null && field2 == null) || (field1 == "" && field2 == "")) {
+					return 0;
+				}else if((field1 != null && field2 == null) || (field1 != "" && field2 == "")) {
+					//Doing this to match Oracle sorting
+					return +1;
+				} else if ((field1 == null && field2 != null) || (field1 == "" && field2 != "")) {
+					return -1;
+				} else {	
+					return (-1) * field1.compareToIgnoreCase(field2);
+				}
+				
+			} else {
+				if((field1 == null && field2 == null) || (field1 == "" && field2 == "")) {
+					return 0;				
+				}else if((field1 != null && field2 == null) || (field1 != "" && field2 == "")) {
+					//Doing this to match Oracle sorting
+					return -1;
+				} else if ((field1 == null && field2 != null) || (field1 == "" && field2 != "")){
+					return +1;
+				} else {				
+					return field1.compareToIgnoreCase(field2);
+				}
+			}
+
+
+								for (BusinessLocation bus  : result) {
+									System.out.println("result:bus.getAddress1()"+bus.getAddress1());
+									System.out.println("result:bus.getDoNotPublish()"+bus.getDoNotPublish());
+								}
+
+
+
+
+
+
+
+
+			if (sortDir.equalsIgnoreCase("desc")) {
+				System.out.println("field1:"+field1+":and field2:"+field2);
+				
+				if((field1 == null && field2 == null) || (field1 == "" && field2 == "")) {
+					return 0;
+				}else if((field1 != null && field2 == null) || (field1 != "" && field2 == "")) {
+					//Doing this to match Oracle sorting
+					return +1;
+				} else if ((field1 == null && field2 != null) || (field1 == "" && field2 != "")) {
+					return -1;
+				} else {	
+					return (-1) * field1.compareToIgnoreCase(field2);
+				}
+				
+			} else {
+				System.out.println("field1:"+field1+":and field2:"+field2);
+				if((field1 == null && field2 == null) || (field1 == "" && field2 == "")) {
+					return 0;				
+				}else if((field1 != null && field2 == null) || (field1 != "" && field2 == "")) {
+					//Doing this to match Oracle sorting
+					return -1;
+				} else if ((field1 == null && field2 != null) || (field1 == "" && field2 != "")){
+					return +1;
+				} else {				
+					return field1.compareToIgnoreCase(field2);
+				}
+			}
+
+
+
+removed things:getBusinessByDateSearch
+businessLocationService.getListingCountBetweenDates
+
+
+range: 12-Aug-10  ----- 999 ---- to date
+
+
+work has to do...
+
+
+
+		case NEWLISTINGSREPORT_Date_Search:
+			
+			buildListingDataGridForNewListings();
+			
+			
+			initSearchResultPanelForNewListings(searchType,false);
+			listingDataGridForNewListings.setStyleName("searchResult");
+			searchResultPanel.setSize("1100px", "485px");
+			add(new Label("Count:"+listingDataModel.populateListingForNewListingsByDateSearch(searchData)));
+			add(searchResultPanel);
+			break;
+
+
+
+
+
+getListingDatesForNewListings
+
+getListingCountBetweenDates
+
+
+@Override
+	public List<DataManagerHeadings> retrieveHeadingsForAddListing(final String value)throws DataManagerDaoException {
+		
+		List<DataManagerHeadings> heading = this.getHibernateTemplate().executeFind(
+				new HibernateCallback() {
+					@Override
+					public Object doInHibernate(Session session) throws HibernateException, SQLException {
+						String sqlQuery = "select * from (select distinct heading_code, " +
+								"description, type from vw_dm_heading) heading where lower(heading.description) " +
+								"like '" + value.toLowerCase() +"%'";
+						SQLQuery query = session.createSQLQuery(sqlQuery);
+						query.addEntity(DataManagerHeadings.class);
+						List<DataManagerHeadings> headings = query.list();
+						return headings;
+					}
+
+				});
+		return heading;
+	}
+
+
+
+getListingDatesForNewListings
+
+	public List<NewListingReportResult> getListingDatesForNewListings(Location query);
+
+
+
+
+public static final String MDB_ID = "mdbId";
+	public static final String LISTING_TYPE = "businessListingType";
+	public static final String LISTED_NAME = "businessName";	
+	public static final String ADDRESS = "address";
+	public static final String CITY = "city";
+	public static final String STATE = "state";
+	public static final String ZIP = "zip";
+	public static final String PHONE_NUMBER = "phoneNumber";
+	public static final String USER = "create_user";
+	public static final String CREATEDDATE = "create_date";
+	public static final String CUSTOMER_CONTACT = "customer_contact";
+
+
+
+
+public void populateListingForMDBID(String mdbId) {
+		final MessageBox box;
+		box = Mdb2MessageBox.cancelableWait("Progress",	"Loading your data, please wait...", "Loading...");
+		
+		businessLocationService.getBusinessByMDBID(Long.parseLong(mdbId),
+				new AsyncCallback<ListingSearchResult>() {
+
+					public void onFailure(Throwable exception) {
+						box.close();
+						Mdb2ClientUtil.DisplayAsyncCallFailureMsg(exception);
+					}
+
+					public void onSuccess(ListingSearchResult listing) {
+						if(box.isVisible()) {
+							box.close();
+							if (listing != null) {
+								listingStore.add(listing);
+							} else {
+								Info.display("Message",	"No data pertaining to your search could be found",	"");
+								Window.alert("No records found for the search criteria entered.");
+								DataManager.get().getAccordionPanel1().expand();
+							}
+						}						
+					}
+				});
+	}
+
+
+
+
+
+
+
+
+createSearchResultsForNewListings
+createListingDataModelFromBusinessLocationForNewListings
+
+
+Chaitra Holalkeri; Dinesh Venugopal; Himavantha D; Narayanaswamy N; PV Sudheer; Suresh Babu
+
+
+
+ queryStr.append("order by ").append(sortColumn.toUpperCase()).append(" ").append(sortDir.toUpperCase());
+
+
+hcriteria.addOrder(Property.forName("recordStatus").asc().ignoreCase());
+
+
+
+							if (sortDirection.equalsIgnoreCase("desc")) {
+								hcriteria.addOrder(Property.forName(sortColumn).desc().ignoreCase());
+							} else {
+								hcriteria.addOrder(Property.forName(sortColumn).asc().ignoreCase());
+							}
+
+
+
+
+@SuppressWarnings({"unchecked", "rawtypes"})
+  @Override
+  protected void applySort(boolean supressEvent) {
+    if ((loader == null || !loader.isRemoteSort()) && sortInfo != null && sortInfo.getSortField() != null) {
+      storeSorter = storeSorter == null ? new StoreSorter() : storeSorter;
+      Collections.sort(all, new Comparator<M>() {
+        public int compare(M m1, M m2) {
+          return storeSorter.compare(ListStore.this, m1, m2, sortInfo.getSortField());
+        }
+      });
+      if (sortInfo.getSortDir() == SortDir.DESC) {
+        Collections.reverse(all);
+      }
+      if (!supressEvent) {
+        StoreEvent<M> event = createStoreEvent();
+        event.setSortInfo(sortInfo);
+        fireEvent(Sort, event);
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+datamgr :  XREF_STD_HEADINGS   --    
+
+
+
+
+
+
+MO
+
+
+
+
+
+Default text in module selection list box is changed, and modules are arranged in ascending order.
+
+
+
+-----------------------------------
+------
+
+@Override
+	public void saveListing(AddMasterBase listingObject)
+			throws DataManagerDaoException {
+		this.getHibernateTemplate().save(listingObject);
+
+	}
+
+------
+public void saveCmpData( final List<LoadGsCmpTape> cmpTapeList, final List<LoadGsCmpTape> deletedCmpRecords, final Long edaSetId, final Long keyedSetId, final String status,final String userName, final String currentDisplayTable, final Long currentSetId, String leftWidgetDataFrom, int saveFlag,int updateSetsFlag)     throws DataManagerDaoException {
+          logger.info("Inside saveCmpData dao:"+userName);
+          if(deletedCmpRecords !=null && deletedCmpRecords.size()>0){
+                deleteCmpData(deletedCmpRecords, edaSetId, keyedSetId, status,userName, currentDisplayTable);
+          }
+          if(updateSetsFlag==0){
+                if(status.equalsIgnoreCase("A") || status.equalsIgnoreCase("I")){
+             		DetachedCriteria criteria = DetachedCriteria.forClass(EtlGsCmpTapeSets.class);
+					criteria.add(Restrictions.eq("cmpSetId", currentSetId));
+					List<EtlGsCmpTapeSets> etlGsCmpTapeSets = this.getHibernateTemplate().findByCriteria(criteria);
+					if(etlGsCmpTapeSets.size()>0) {
+						updateEtlGsCmpTapeSets(currentSetId,status,userName);
+	                      for (LoadGsCmpTape loadGsCmpTape : cmpTapeList) {
+	                            if(loadGsCmpTape.getCmpSetId()== null || loadGsCmpTape.getCmpSetId()== 0L){
+	                                  loadGsCmpTape.setCmpSetId(currentSetId);
+	                            }
+	                            this.getHibernateTemplate().merge(loadGsCmpTape);
+	                            
+	                      }
+					}
+
+
+
+
+
+#addresshubtest:In 1st tab:
+PhoneSearch:988-574-5447 
+
+
+
+
+dfdfssssssssssssssssssssssssssdfdfssssssssssrerwrwewrwerwerwrwerwereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesdjlfkajdkfjsldkfjsklfjlskfjskljdfkldjfkljdklfjdlskfjlsssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfsssssssssssssssfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfdsfadjkfhsfjkdhlslfahdhaflkdfjhdlfdfsfdkjfksjflsjfjklsfsklflksflksjklfsdfkjdlflkfdkjkfjkdjfkdjkfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjfjdfjkdfjkdjfkdjfkdjfkdjfkdjkfjsssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfdfssssssssssssssssssssssssssdfssssssssssssssssssssssssss
+
+
+
+
+
+
+
+
+
+
+
+ldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssldksjfklsdjlrwefsdfsfsdfsdfdsfssfsfsdfsdfdsfssfdfsdfsdfsfsfadfsfdfsdfshfkjshfasjdfsjklfsdjflskjdflksdjflskjflskdjfklsjdfklsjdfklsjdfklsjdfklsjdlfsjdflksjdfklsjfklsdjflksjdfklsjdlfksjldkfjkljlkjlkjjlkjljfldksjflskdjfklsfjdklsjf
+
+
+
+
+
+
+fdsfsdkjfsdkljfkldsjfkldjklfjdlkfdjslk;FDFDFDFDFDFSDFSDFSDFSDFSDFSfdsfsdkjfsdkljfkldsjfkldjklfjdlkfdjslk;fjdjfsdklfjsdlkjfsdDFDFDkljfsdkljffdsfsdkjfsdkljfkldsjfkl
+
+
+
+
+
+
+
+
+fdsfsdkjfsdkljfkldsjfkldjklfjdlkfdjslk;FDFDFDFDFDFSDFSDFSDFSDFSDFSfdsfsdkjfsdkljfkldsjfkldjklfjdlkfdjslk;fjdjfsdklfjsdlkjfsdDFDFDkljfsdkljffdsfsdkjfsdkljfkldsjfkl:fdjfklsdjlfkjsdklfjdkljfdsfsdfsdfsdfd
+
+
+
+
+
+BusinessLocationDaoImpl.java
+ListingWidgetModel.java
+NewListingReportResult.java
+Mdb2ClientUtil.java
+
+
+
+
+
+
+
+throw new RuntimeException("File Creation Failed");
+
+-------------------------------------------
+
+
+
+	private void isHeadingTextSortNameModified(MDBTextField<String> textField) {
+
+    public void setHeadingTextAndSortNameToLoad(final Long currentSetId,final String newHeadingText,final String newSortName,final String newListedName)
+
+
+
+
+
+
+
+String sqlQuery = "update ETL_GS_CMPTAPE_EDA_XREF set status='"+status+"' , LAST_UPDATE_DATE=to_char(sysdate,'DD-Mon-YYYY') , USER_NAME='"+userName+"' where CMP_SETID =" +cmpSetIdFinal + " and SRCSET_ID ="+ edaSetId;
+String sqlQuery = "update ETL_GS_CMPTAPE_KEYED_XREF set status='"+status+"' , LAST_UPDATE_DATE=to_char(sysdate,'DD-Mon-YYYY') , USER_NAME='"+userName+"' where CMP_SETID =" +cmpSetIdFinal + " and SETID ="+ keyedSetId;
+
+
+
+css names:
+
+accordionPanel1.setHeading("<span class='accordionText'>Search</span>");
+		accordionPanel1.setHeading("<span class='accordionText'>Search</span>");
+		accordionPanel2.setHeading("<span class='accordionText'>Results</span>");
+
+
+
+
+
+dao------->getKeyedAndEdaSetIdsAndStatuses
+tree-------->retrieveSetIdsInEdaAndKeyed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fback:
+
+1. i have very good relationship with the team, and have share my knowledge with the team members as well. - 8.45
+
+
+2.I  have completed all the assignments given  to me with out any external reminders. - 8.50
+
+
+3.I always ready to  accepts feedback on performanace - 8.70
+
+
+4. Always willing to explore new initiative/ideas - 8.70
+
+
+
+5. I have planned and organized my own work with in the organization process and procedures - 8.50
+
+
+
+6. I used to done lot of changes in work environment, when required. -	8.50
+
+
+
+7. I am okay with my communication skills, but need to improve a bit on active listening - 7.95
+
+
+
+8. I have maximum used my techniques in problem solving. - 8.70
+
+
+
+
+9. I have shown lot of enthusiasm in complex work.  - 8.70
+
+
+
+10. I am pretty much consistent with my performace. - 8.80
+
+
+
+11. I Don't have much domain knowledge with Gxt, and Gwt, but always eager to get knowledge from others. - 8.70
+
+
+
+13.  I delivered consistency in implementation of code/testing the application , and what ever i committed - 8.45
+
+
+
+14.  I am good at work related competencies. - 7.90
+
+
+
+15.  I always understand the business requirements as my own and having a good knowledge in understanding requirements. - 8.45
+
+
+
+12. i have displayed basic quality consciousness in all activities. - 8.55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teaming : Contributes & builds harmonious relationship with other teams. Is a team player and works in collaboration with all.		
+2.	Ownership : Understands his/her roles & responsibilities, is committed to take assignments to closure, with full ownership without external reminders.		
+3.	Commitment to Learning & Growth : Displays keenness to learn for personal & professional growth and always ready to accept feedback, on his/her performance.		
+4.	Initiative : Is a self starter with a positive outlook & willing to explore new initiative/ideas.		
+5.	Planning & Organizing: Organizes own work efficiently in line with organizational processes & procedures. Is forward looking and efficient in planning.		
+6.	Adaptability : Responds & adapts to changes in work environment, as they arise. Willing to change.		
+7.	Communication : Displays good verbal and written communication and active listening. Very Clear & Effective in his/her communications.		
+8.	Problem Solving : Understands and able to use basic problem solving techniques in his/her job.		
+9.	Passion : Displays energy & enthusiasm and enjoys work and its challenges.		
+10.	Integrity : Walks the talk - actions and behaviors are consistent with his/her words.		
+11.	Knowledge Expertise : Good domain knowledge and related concepts.		
+12.	Quality Adherence : Displays basic quality consciousness in all activities. Maintains integrity in all his/her actions.		
+13.	Consistency : Displays consistency in all activities. Delivering consistently in what he/she commits.		
+14.	Functional Capability : Is good at work related competencies that are required to perform his/her job effectively.		
+15.	Customer Orientation : Understand customer requirements from one’s own job and has customer focus in all his/her activities.
+
+
+
+
+
+
+
+
+
+
+
+
+cricktime
+http://www.espnstar.com/cwclive/index-backup-stream.htm
+
+
+
+
+
+
+
+
+
+....................
+
+
+
+
+private ColumnConfig getColumnConfig(String id, String header, int width) {
+		ColumnConfig columnConfig = new ColumnConfig();
+		
+		columnConfig.setId(id);
+		if(id.equals(ListingSearchResult.HEADING1)) {
+			columnConfig.setHeader("<span qtip='Can not sort by heading.' class='tableHeader'>" + header + "</span>");
+			columnConfig.setSortable(false);
+		}else if(id.equals(ListingSearchResult.CONTRACT)) {
+			columnConfig.setHeader("<span qtip='$  indicates that an active contract exists' class='tableHeader'>" + header + "</span>");
+		}else {
+			columnConfig.setHeader("<span class='tableHeader'>" + header + "</span>");
+		}
+		columnConfig.setWidth(width);
+		
+		
+		return columnConfig;
+	}
+
+
+
+
+
+
+
+	private void commitAndClearStoresAfterSave() {
+
+
+
+
+
+
+-------------------------------------
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML Transitional//EN"><META http-equiv="Content-Type" content="text/html; charset=utf-8"> <HTML><BODY class="ext-border-box ext-ie ext-ie7 ext-windows"><TABLE cellSpacing="0" cellPadding="0" width="100%" align="center" border="0"><TBODY><TR><TD class="bgimg" noWrap align="right" width="30%"> <SELECT onchange="openPage(this.value)"> <OPTION>--Please select an application--</OPTION> <OPTION value="../bookextraction/BookExtraction.jsp">Book Extraction</OPTION> <OPTION value="../captionTableMaintenance/CaptionTableMaintenance.jsp">Caption Table Maintenance</OPTION> <OPTION value="../governmentAndSchools/GovernmentAndSchools.jsp">Government and Schools</OPTION> <OPTION value="../datamanager/DataManager.jsp">Listing Manager</OPTION></SELECT> </TD></TR></TBODY></TABLE></BODY></HTML>
+
+
+
+
+
+/* Rule 3 of http://127.0.0.1:8080/governmentAndSchools/gwt/standard/standard.css */ 
+
+SELECT {	
+	FONT-SIZE: small;	FONT-FAMILY: Arial Unicode MS, Arial, sans-serif
+	}
+
+
+
+
+
+/*toDate.setValidator(new Validator() {
+			@Override
+			public String validate(Field<?> field, String value) {
+            	if(value.substring(0,4).equals("0000")){
+            	    return value+" is not a valid date - it must be in the format YYYY-MM-DD";
+            	}
+                return null;
+            }
+		});
+		*/
+
+
+
+
+
+
+
+
+
+
+
+-------------
+
+
+
+
+delete from load_gs_cmptape where book_code='ABE' and list_type in('G','GV')
+
+
+select * from load_gs_cmptape where book_code='ABE' and list_type in('G','GV')
+
+update etl_gs_cmptape_keyed_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='ABE'); commit;
+
+update etl_gs_cmptape_eda_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='ABE'); commit;
+
+update book_scope_cmptape set status='R' where book_code='ABE' and list_type in('G','GV');commit;
+
+
+update etl_gs_cmptape_keyed_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='HCK'); commit;
+
+update etl_gs_cmptape_eda_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='HCK'); commit;
+
+update book_scope_cmptape set status='R' where book_code='HCK' and list_type in('S');commit;
+
+
+
+update etl_gs_cmptape_keyed_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='CAB'); commit;
+
+update etl_gs_cmptape_eda_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='CAB'); commit;
+
+update book_scope_cmptape set status='R' where book_code='CAB' and list_type in('S');commit;
+
+
+
+update etl_gs_cmptape_keyed_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='KSX'); commit;
+
+update etl_gs_cmptape_eda_xref set status='R'  
+where cmp_setid  in (select cmp_setid from etl_gs_cmptape where book_code='KSX'); commit;
+
+update book_scope_cmptape set status='R' where book_code='KSX' and list_type in('S');commit;
+
+
+delete from load_gs_cmptape where BOOK_CODE='ABE' and LIST_TYPE='G' and CMP_SETID='105'
+
+
+
+
+
+
+top: 0px; height: 464px;
+
+
+
+
+>   setFreezedateField.getDatePicker().getMessages().setMaxText("Please select a date that is greater OR equal to the current date");
+
+
+
+
+
+
+
+@Test
+	public void testGetLastEdaSetId() {
+		try {
+			List<String> lastId = govtAndSchoolsDao.getLastEdaSetId(1426L);
+		    Assert.assertEquals(lastId, lastId);
+		    Assert.assertNotNull(lastId);
+		    logger.info(lastId + "gets the last EDA SET ID");
+		} catch (DataManagerDaoException e) {
+			logger.error(e + " Exception inside testGetLastEdaSetId()");
+		}
+	}
+
+	@Test
+	public void testGetLastKeyedSetId() {
+		try {
+			List<BigDecimal> laseKeyedSetId = govtAndSchoolsDao.getLastKeyedSetId(1426L);
+			for (BigDecimal bigDecimal : laseKeyedSetId) {
+				System.out.println(bigDecimal);
+				logger.info(bigDecimal + "Getting Last Eda");
+			}
+			Assert.assertNotNull(laseKeyedSetId);
+			Assert.assertEquals(laseKeyedSetId, laseKeyedSetId);
+		} catch (DataManagerDaoException e) {
+			logger.error(e + " Exception inside testGetLastKeyedSetId()");
+		}
+	}
+
+
+
+
+addRemoveMenuItem
+
+highLightAllAfterEdit
+
+unHighLightAll
+
+public void unHighLightAll(TreeDataModel modelObject, ListStore<TreeDataModel> sourceStore) {
+
+
+
+
+
+
+-------------------
+
+               Query queryForEda = session.createQuery("update  EtlGsCmptapeEdaXref eda set eda.status= :status, eda.userName= :userName, LAST_UPDATE_DATE=to_char(sysdate,'DD-Mon-YYYY') where eda.cmpSetId=:cSetId and eda.status <> 'I'");
+//               Query queryForKeyed = session.createQuery("update  EtlGsCmptapeKeyedXref keyed set keyed.status= :status, keyed.userName= :userName, LAST_UPDATE_DATE=to_char(sysdate,'DD-Mon-YYYY') where keyed.cmpSetId=:cSetId and keyed.status <> 'I'");
+//               Query queryForKeyed = session.createQuery("update  EtlGsCmptapeKeyedXref keyed set keyed.status= :status, keyed.userName= :userName, LAST_UPDATE_DATE=to_char(sysdate,'DD-Mon-YYYY') where setid in (select k.setid from lkup_book b, stg_keyed_biz_gs k where b.yppa_code=k.yppa_code and b.book_code=:bookCode) and cmp_setid=1002 and STATUS<>'I'");
+//               Query queryForKeyed = session.createQuery("update  EtlGsCmptapeKeyedXref keyed set keyed.status= :status, keyed.userName= :userName, LAST_UPDATE_DATE=to_char(sysdate,'DD-Mon-YYYY') where setid in (select k.setid from lkup_book b, stg_keyed_biz_gs k where b.yppa_code=k.yppa_code and b.book_code=:bookCode) and cmp_setid=1002 and STATUS<>'I'");
+
+
+YPPA association is added when fe
+
+--------------------------------------------
+setBookStatus - main
+
+-if(status i)
+-get all cmpsetids that matches book, and listing type in etlgstape
+-pass those cmpsetids to LoadGsCmptape as list as count
+if(size>0)
+	 pass status A
+else
+	pass status I
+
+---------
+
+
+
+stated_last_name_1
+stated_first_name_1
+std_add_st_extd
+std_city
+std_state
+std_zip
+ph_area_code
+ph_exch
+ph_num
+res_changed_type_id
+current_flag
+src
+
+
+
+
+
+We need to hit res_changed table for Date range search in NewResidentialReport tab - Need Confirmation
+Based on what column we need to fectch the BookCode, BookName and PubDate info from pull.res in Details accordian
+We don't have following columns in V_Dm_Search View
+	- Generational Title (lookup) 
+	- Number
+	- Pre-directional
+	- Name
+	- Suffix
+	- PostDirectional
+	- Unit
+	- Unit Num
+	- Zip(5) and Zip(4) only one field we have
+	- Comments
+
+
+
+
+
+
+-------------------
+On selection of record  in Results Accordion , we need to check whether that record is available in Res_changed or not
+	- If available we need to pull it from Res_changed  and populate the Details Accordian
+	- If not we need to pull it from V_dm_search and populate the Details Accordian
+Based on what column  we need to check this condition in Res_changed/V_dm_search.
+
+
+
+
+
+
+2787
+
+
+
+
+
+Mon - 23 - May	MDB2	Worked on phone search Dao implementation for NR Module
+Tue - 24 - May	MDB2	Worked on Name search Dao implementation for NR Module
+Wed - 25 - May	MDB2	Implemented  Pojo and Hbm of V_dm_search view for NR Module
+Thu - 26 - May	MDB2	Worked on Detail accordian of NR Module
+Fri  - 27 -May	MDB2	Worked for BNW team
+Sat - 28 - May	Holiday	
+Sun - 29 - May	Holiday	
+
+---
+
+layout.setLabelAlign(LabelAlign.TOP);
+
+12px tahoma,arial,helvetica,sans-serif
+12px tahoma,arial,helvetica,sans-serif
+
+
+
+--------
+
+9886407537
+9036131601
+9886911435
+
+this is jagadeesh and it's my 
+
+
+7605964549
+
+
+
+com.google.gwt.user.server.rpc.UnexpectedException: Service method 'public abstract java.util.List com.yellowbook.mdb.client.nationalResidential.service.NRClientService.getDetailsFromReschangedBySearchKey(java.lang.String) throws java.lang.Exception' threw an unexpected exception: java.lang.NoSuchMethodError: com.yellowbook.dataManager.service.NationalResidentialService.getDetailsFromReschangedBySearchKey(Ljava/lang/String;)Ljava/util/List;
+
+select * from pull.res where acxiom_unique_key='005825_20091101_5_70054'
+
+
+
+
+
+In pull.res for First Name field we have three columns(stated_first_name_1, stated_first_name2 and stated_first_name3), currently we are mapping with stated_first_name1 
+
+
+
+private enum Jaggu{
+        DATA_MANAGER("Data Manager"),ACXIOM("acxiom");
+        
+        private String value;
+
+        Jaggu(String value) {
+            this.value=value;
+        }
+
+        public String getValue() {
+            return value;
+        }
+
+        public void setValue(String value) {
+            this.value = value;
+        }
+    }
+
+
+
+
+
+192.168.132.232
+root
+password
+
+folder ,
+
+/MDB2
+
+
+
+1.	Status column is not available in V_Dm_search to display in Results (but we have reschanged_type_id value as null to fetch the status against the ResChanged_type)
+
+d
+9
+0
+
+
+-------------------------------------
+
+NRAddNameInfoWidget
+
+        formPanel.setFrame(true);
+        formPanel.setHeight(100);
+
+
+
+-------------------------
+Not avalilable in Reschanged and pull.res
+
+BookCode
+Status
+
+
+------
+
+Status
+if src type axiom : status="A"
+else:  Check it in Reschanged based on Reschanged id against Reschangedtype: Delete-I, Changed-A
+									
+	
+----------
+
+	private void getResultsPanelRecordsDisplaySize() {
+		nrClientService.getResultsPanelRecordsDisplaySize(new NRAsyncCallBack<Integer>() {
+			@Override
+			public void onSuccess(Integer resultsSize) {
+				resultPanelRecordsDisplaySize=resultsSize;
+			}
+		});	
+	}
+
+
+
+------
+
+Need clarification on status column 
+
+if src type is "Axiom" then we are displaying status as "A" in Results panel.
+if "Data Manager" then we need to take the 'reschangedtypeId' from View and check against ReschangedType table 
+	---- if "Change" - A
+	---- if "Delete" - I
+   But - ReschangedTypeId is null in View.
+
+----
+rao	rajesh	NE	COLORADO SPRINGS	CO	90015	902	378	2432	100	true	Data Manager
+Dinerman	Chad	  	King Of Prussia	PA	19406	760	951	0441	500	true	Data Manager
+Dinerman	Chad	  	King Of Prussia	PA	19406	760	241	1212	150	true	Data Manager
+Dinerman	Chad	  	King Of Prussia	PA	19406	7609515753	100	true	Data Manager
+Dinerman	Chad	  	King Of Prussia	PA	19406	7609489010	100	true	Data Manager
+Dinerman	Chad	  	King Of Prussia	PA	19406	7609471212	150	true	Data Manager
+Dinerman	Chad	  	King Of Prussia	PA	19406	7609483008	500	true	Data Manager
+fd	dd					323	344	3434	100	true	Data Manager
+rao	ra					934	423	4340	100	true	Data Manager
+
+
+
+	//Concatinating Address fields with comma separator
+	private String getConcatinatedAddress(VDmSearch model){
+		String streetNumber = notNullCheck(null);
+		String preDirectional = notNullCheck(null);
+		String streetName = notNullCheck(null);
+		String suffix = notNullCheck(null);
+		String postDirectional = notNullCheck(null);
+		String unit = notNullCheck(null);
+		String unitNumber = notNullCheck(null);
+		return formatStringsWithComma(streetNumber,preDirectional,streetName,suffix,postDirectional,unit,unitNumber);
+	}
+	
+Code has been checked in to display status in Results panel
+Code has been checked in to display status in Results panel and Externalized 
+
+
+CustomGridViewConfig
+NRResultWidget
+---------------------------
+name combi.. for I,A
+dine*
+Pennsylvania
+--------------------------
+
+Mon - 13 - June	MDB2	Worked on Results panel in Nr Module
+Tue - 14 - June	MDB2	Worked on Search tab validation on Nr module
+Wed - 15 - June	MDB2	Worked on pulling the data from Reschanged or pull.res based on Src type in V_Dm_Search
+Thu - 16 - June	MDB2	Testing the application
+Fri  - 17 -June	MDB2	Testing the application and bug fixing
+Sat - 18 - June	Holiday	
+Sun - 19 - June	Holiday	
+
+
+
+
+
+lazy - eager.
+com.google.gwt.user.server.rpc.UnexpectedException: Service method 'public abstract com.yellowbook.mdb.client.nationalResidential.model.NRGridModel com.yellowbook.mdb.client.nationalResidential.service.NRClientService.getPullResById(java.lang.String) throws com.yellowbook.mdb.client.nationalResidential.exceptions.NationalResidentialException' threw an unexpected exception: java.lang.NoSuchMethodError: com.yellowbook.dataManager.pojos.PullRes.getBookName()Ljava/lang/String;
+
+
+"Southwest Louisiana, LA"
+
+
+
+NRAddAddressInfoWidget
+preFillCityAndState
+
+3 formats:
+Burke	Charles
+
+
+
+
+
+Francisco
+Aguayo
+
+
+com.google.gwt.user.server.rpc.UnexpectedException: Service method 'public abstract com.yellowbook.mdb.client.nationalResidential.model.NRGridModel com.yellowbook.mdb.client.nationalResidential.service.NRClientService.getPullResById(java.lang.String) throws com.yellowbook.mdb.client.nationalResidential.exceptions.NationalResidentialException' threw an unexpected exception: java.lang.RuntimeException
+
+
+refer for save:
+
+NRAddWidget
+
+
+updating the status in reschanged to inactivate when the data is loaded from pull.res for the first time issue is fixed
+
+
+        client.setNote(notNullCheck(resChanged1.getResChangedNotes()!=null?resChanged1.getResChangedNotes().get(0).getNote():""));
+
+
+
+
+pubdata and page number data:
+
+760	951	0441
+760	241	1212
+760	951	5753
+760	948	9010
+760	947	1212
+760	948	3008
+
+
+
+
+
+
+
+
+select * from res_changed where ph_area_code='988' and ph_exch='988' and ph_num='9889'
+select * from res_changed_note where res_changed_id='1680'
+
+//                            model.setStatus(ResChangedStatus.Change);
+
+
+760-247-7451
+
+988-512-1211
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+testtesttesttesttesttesttestdk
+
+Caused by: org.springframework.dao.DataIntegrityViolationException: could not insert: [com.yellowbook.dataManager.pojos.ResChanged]; SQL [/* insert com.yellowbook.dataManager.pojos.ResChanged */ insert into res_changed (ph_area_code, ph_exch, ph_num, last_name, first_name, date_modified, city, print_zip, add_st_name, add_st_sfx, add_pre_dir, add_post_dir, geo_match_code, res_changed_type_id, current_flag) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]; nested exception is org.hibernate.exception.DataException: could not insert: [com.yellowbook.dataManager.pojos.ResChanged]
+
+888888888888888888888888888888
+
+
+
+Book Code: Phone numbers...
+987-545-1234
+584-564-5126
+941-315-4794
+955-454-2123
+784-544-6454
+
+
+
+city.setMinChars(2);
+
+Mdb Id which has association in both Print_Book_Caption and Print_BookEdit_Caption( including 'null' values)
+
+30009717049
+
+for caption indicator:
+
+heading text - not null
+caption text - not null
+indent - 2
+
+select CAPTION_TEXT,INDENT from PRINT_BOOK_CAPTION where COMPANY_ID=30009717049 and INDENT=2
+
+select CAPTION_TEXT,INDENT from PRINT_BOOKEDIT_CAPTION where COMPANY_ID=30009717049 and INDENT=2
+
+select count(CAPTION_TEXT) from PRINT_BOOK_CAPTION where COMPANY_ID=30009717017 and trim(HEADINGTEXT) IS NOT NULL and trim(CAPTION_TEXT) IS NOT NULL and INDENT=2 
+
+select count(CAPTION_TEXT) from PRINT_BOOKEDIT_CAPTION where COMPANY_ID=30009717017 and trim(HEADINGTEXT) IS NOT NULL and trim(CAPTION_TEXT) IS NOT NULL and INDENT=2 
+
+select distinct(company_id) from print_book_caption where company_id not in(select company_id from print_bookedit_caption where headingtext is not null and caption_text is not null and indent=2) 
+
+ref siva: 3792A1
+
+http://maven.apache.org/guides/plugin/guide-java-plugin-development.html
+
+60 day Trial License - English
+7T3HC-6KTF7-M67JX-D7XFV-HMHXV
+
+
+
+White and Yellow Page Grids
+
+whiteAndYellowPageGrids.roles=ROLE_UDATAMANWANDYGRIDS
+
+whileAndYellowPageGrids
+
+whileAndYellowPageGridsRoles
+
+WhiteAndYellowPageGrids
+White And Yellow Page Grids
+
+whiteAndYellowPageGrids.roles=ROLE_UDATAMANWANDYGRIDS
+
+whiteAndYellowPageGrids
+
+How to Split a string in java based  ','  as a delimeter
+
+
+
+
+public class GwtTest {
+
+    public static void main(String[] args) {
+        B.print();
+        A.print();
+        B.print();
+    }
+}
+
+class A {
+    static {
+        System.out.println("A.static intializer");
+    }
+
+    public static void print() {
+        System.out.println("A.print");
+    }
+}
+
+class B {
+    static {
+        System.out.println("B.static intializer");
+    }
+
+    public static void print() {
+        System.out.println("B.print");
+    }
+}
+
+
+Predict the output without executing......:-)
+
+
+
+While And Yellow Page Grids module has been
+
+<context:property-placeholder location="file:///C:/Temp/dataManager.properties"/>
+<constructor-arg value="C:/Temp/dataManager.properties"/>
+
+
+
+http://www.coderanch.com/t/117336/HTML-JavaScript/Hidden-input-type-file-technique
+http://blog.ropardo.ro/2011/03/03/gwtgxt-file-upload/
+
+
+StateAndCityLookupDaoImpl
+
+
+        configureGridCommentsByGridId(3123);
+
+
+
+
+3025 Golden Triangle  2012
+1095
+3028
+3031
+3026  Laurel    2011    1437
+283
+1094
+1096
+2106
+1083
+1601
+3029
+
+
+select * from grid_entry where grid_id=3026
+select * from grid_entry where grid_id=1437
+
+select * from grid_entry where bk_name='Laurel ' and fy=2011  
+
+1437
+
+select * from grid_comments where grid_id=3026
+select * from grid_comments where grid_id=1437
+
+
+
+4544
+3197
+58
+The following directory has been removed: 2
+145
+15-SEP-11
+
+
+Caused by: java.lang.NoSuchMethodError: com.yellowbook.dataManager.service.WhiteAndYellowGridService.saveCommentsData Lcom/yellowbook/dataManager/pojos/Comments;)Lcom/yellowbook/dataManager/pojos/Comments;
+
+
+
+
+
+
+	@Override
+	public <X> X get(String property) {
+		if(property.equals(ILEC)){
+			String telcoType = get(TELCO_TYPE);
+			X result=(X)(telcoType==null?Boolean.FALSE:telcoType.equalsIgnoreCase("ILEC")?Boolean.TRUE:Boolean.FALSE);
+			return result;
+		}
+		return super.get(property);
+	}
+
+	@Override
+	public <X> X get(String property, X valueWhenNull) {
+		
+		return super.get(property, valueWhenNull);
+	}
+
+
+
+-----------------------------
+27-oct-2011
+
+Logic to allow only unique objects
+
+    	for (WYGGridModel wygGridModel : scopingGridData) {
+			UniqueFilter key = new UniqueFilter(wygGridModel);
+			if(!(finalModels.containsKey(key) && !wygGridModel.getILEC())){
+				finalModels.put(key, wygGridModel);
+			}
+		}
+
+
+
+        WYGGridModel gridModel1 = new WYGGridModel();
+        gridModel1.setState("aa");
+        gridModel1.setCommunity("com");
+        gridModel1.setNPA("234");
+        gridModel1.setNXX("676");
+        gridModel1.setTelco("first");
+        gridModel1.setILEC(false);
+
+        WYGGridModel gridModel2 = new WYGGridModel();
+        gridModel2.setState("aa");
+        gridModel2.setCommunity("com");
+        gridModel2.setNPA("234");
+        gridModel2.setNXX("676");
+        gridModel2.setTelco("second");
+        gridModel2.setILEC(false);
+        
+        WYGGridModel gridModel3 = new WYGGridModel();
+        gridModel3.setState("aa");
+        gridModel3.setCommunity("com");
+        gridModel3.setNPA("234");
+        gridModel3.setNXX("676");
+        gridModel3.setTelco("three");
+        gridModel3.setILEC(true);
+        
+        WYGGridModel gridModel4 = new WYGGridModel();
+        gridModel4.setState("aa");
+        gridModel4.setCommunity("com");
+        gridModel4.setNPA("234");
+        gridModel4.setNXX("673");
+        gridModel4.setTelco("four");
+        gridModel4.setILEC(false);
+        
+        
+        scopingGridData.add(gridModel1);
+        scopingGridData.add(gridModel2);
+        scopingGridData.add(gridModel3);
+        scopingGridData.add(gridModel4);
+
+
+
+
+------------------------------
+With Date:
+
+
+
+            WYGGridModel gridModel1 = new WYGGridModel();
+            gridModel1.setState("aa");
+            gridModel1.setCommunity("com");
+            gridModel1.setNPA("234");
+            gridModel1.setNXX("676");
+            gridModel1.setTelco("1");
+            SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");
+
+            WYGGridModel gridModel2 = new WYGGridModel();
+            gridModel2.setState("aa");
+            gridModel2.setCommunity("com");
+            gridModel2.setNPA("234");
+            gridModel2.setNXX("676");
+            gridModel2.setTelco("2");
+            gridModel2.setTelcoType(null);
+            
+            WYGGridModel gridModel3 = new WYGGridModel();
+            gridModel3.setState("aa");
+            gridModel3.setCommunity("com");
+            gridModel3.setNPA("234");
+            gridModel3.setNXX("676");
+            gridModel3.setTelco("3");
+            gridModel3.setTelcoType("ILEC");
+            
+            WYGGridModel gridModel4 = new WYGGridModel();
+            gridModel4.setState("aa");
+            gridModel4.setCommunity("com");
+            gridModel4.setNPA("234");
+            gridModel4.setNXX("676");
+            gridModel4.setTelco("4");
+   			gridModel1.setChangeDate(format.parse("2011-09-11"));
+   			gridModel2.setChangeDate(format.parse("2011-09-17"));
+   			gridModel3.setChangeDate(format.parse("2011-09-9"));
+   			gridModel4.setChangeDate(format.parse("2011-09-18"));
+            
+            scopingGridData.add(gridModel1);
+            scopingGridData.add(gridModel2);
+            scopingGridData.add(gridModel3);
+            scopingGridData.add(gridModel4);
+            
+
+
+
+---------------------
+Tables changed:
+Except Book_Scope
+
+
+
+private static CheckColumnConfig getiLECCheckBoxColumnConfig(String id, String header, int width) {
+		CheckColumnConfig columnConfig = new CheckColumnConfig(){
+            @Override
+            protected void onMouseDown(GridEvent<ModelData> ge) {
+                return;
+            }
+        };
+        columnConfig.setId(id);
+        columnConfig.setHeader(header);
+        columnConfig.setWidth(width);
+
+//    	columnConfig.setEditor(new CellEditor(new CheckBox()));
+        return columnConfig;
+    }
+
+
+org.dom4j.DocumentException: Error on line 30 of document  : Open quote is expected for attribute "name" associated with an  element type  "property". Nested exception: Open quote is expected for attribute "name" associated with an  element type  "property".
+
+
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [spring/MDB_DataSource.xml]: Invocation of init method failed; nested exception is org.hibernate.InvalidMappingException: Could not parse mapping document from input stream
+
+
+
+//        If 'ILEC_Flag' column is null, checking against 'TELCO_TYPE' column for 'ILEC' value
+        model.setILEC(wyg.getiLECFlag()!=null?wyg.getiLECFlag().equals("Y"):notNullCheck(wyg.getTelcoType()).equals("ILEC"));
+
+
+
+
+			}else if(be.getProperty().equals(WYGGridModel.ILEC) && isMultiRecordsSelected && isModified){
+				isRefreshRequired = true;
+				for (WYGGridModel wygStage2GridModel : selectedItems) {
+					wygStage2GridModel.setILEC(afterEdit.equals("true")?true:false);
+					editorGrid.getStore().getRecord(wygStage2GridModel).set("ILEC", afterEdit.equals("true")?true:false);
+					MyView gridView = (MyView)editorGrid.getView();
+					gridView.refreshRow(editorGrid.getStore().indexOf(wygStage2GridModel));
+				}
+
+
+
+
+                
+                BellCoreSearchResults bellCoreSearchResults = new BellCoreSearchResults();
+
+                /*                        wygGridModel.setState("OH");
+                                    	wygGridModel.setCommunity("Lemoyne");
+                                    	wygGridModel.setNPA("874");
+                                    	wygGridModel.setNXX("874");
+                                    	wygGridModel.setTelcoType("ILEC");
+                                    	wygGridModel.setILEC(true);
+                                    	wygGridModel.setChangeDate(new Date());
+                */
+                                        bellCoreSearchResults.setState("OH");
+                                        bellCoreSearchResults.setCommunity("Lemoyne");
+                                        bellCoreSearchResults.setAreaCode("874");
+                                        bellCoreSearchResults.setExchange("874");
+                                        bellCoreSearchResults.setTelcoType("ILEC");
+                                        bellCoreData.add(bellCoreSearchResults);
+
+                
+-------------------------------------------------------
+
+
+@Override
+			protected void sortData(final String field, SortDir direction) {
+				direction = direction == null ? SortDir.ASC : direction;
+			    storeSorter = storeSorter == null ? new StoreSorter() : storeSorter;
+			    final ListStore<WYGGridModel> thisModel = this;
+			    if (direction == SortDir.ASC) {
+			    Collections.sort(all, new Comparator<WYGGridModel>() {
+			      public int compare(WYGGridModel m1, WYGGridModel m2) {
+			        return storeSorter.compare(thisModel, m1, m2, field);
+			      }
+			    });
+			    }else{
+			    	Collections.sort(all, new Comparator<WYGGridModel>() {
+					      public int compare(WYGGridModel m1, WYGGridModel m2) {
+					        return storeSorter.compare(thisModel, m2, m1, field);
+					      }
+					    });
+			    }
+			      
+
+
+
+
+
+
+    public static boolean validateCommunity(String community){
+    	return !(community!=null && community.length()>100);
+    }
+
+    public static boolean validateIncCommunity(String incCommunity){
+    	return !(incCommunity!=null && incCommunity.length()>500);
+    }
+
+
+
+Gridcomments 'No changes alert box' 
+---------------------------------------------------------
+	public void validateAndSaveData() {
+		if(wYGGridCommentsSectionsWidget.validate()){
+			if(gridCommentsData.getCurrentYearCommentsList().size()>0){
+				checkCommentsModfiedAndSave();
+			}
+			else if(gridCommentsData.getCurrentYearCommentsList().size()==0 && (gridCommentsData.getPreviousYearGridEntry()==null?true:gridCommentsData.getPreviousYearCommentsList().size()==0)){
+				checkCommentsModfiedAndSave();
+			}
+/*			else if(gridCommentsData.getCurrentYearCommentsList().size()==0 && wYGGridCommentsSectionsWidget.getGridCommentsWidgetMap().size()==0 && (gridCommentsData.getPreviousYearGridEntry()!=null && gri	dCommentsData.getPreviousYearCommentsList().size()>0)){
+				checkCommentsModfiedAndSave();
+			}
+*/			else{
+				saveGridCommentsData();
+			}
+		}
+	}
+
+
+
+----------------------------------------------------------
+AMLO:
+
+104152
+100394
+072966
+072310
+072296
+071951
+071890
+071038
+070932
+070325
+070150
+069440
+069094
+
+LONG:
+073512
+072002
+071778
+071666
+071414
+071010
+070722
+070708
+069734
+
+
+
+archetype:generate -DarchetypeArtifactId=maven-archetype-webapp \ -DgroupId=package-name -DartifactId=project-name
+getBookCodeStatus ---client service impl	
+
+Blue Background:
+gridReportTabItem.setStyleName("x-panel-mc .x-panel-body");
+
+
+
+getImportedExcelSheetData
+
+
+@Override
+    public List<GridEntry> getGridEntriesByDate(Date fromDate, Date toDate) throws DataManagerDaoException{
+        log.info("getGridEntryByDate fromDate={}, toDate = {}",new Object[]{fromDate,toDate});
+        Criteria criteria = sessionFactory.getCurrentSession().createCriteria(GridEntry.class);
+        Calendar toDateCalendar = Calendar.getInstance();
+        toDateCalendar.setTime(toDate);
+        toDateCalendar.clear(Calendar.HOUR);
+        toDateCalendar.clear(Calendar.MINUTE);
+        toDateCalendar.clear(Calendar.SECOND);
+        toDateCalendar.add(Calendar.HOUR, 1);
+
+        Calendar fromDateCalendar = Calendar.getInstance();
+        fromDateCalendar.setTime(toDate);
+        fromDateCalendar.clear(Calendar.HOUR);
+        fromDateCalendar.clear(Calendar.MINUTE);
+        fromDateCalendar.clear(Calendar.SECOND);
+
+        criteria.add(Restrictions.between("uploadDate", fromDateCalendar.getTime(), toDateCalendar.getTime()));
+        return criteria.list();
+    }
+
+
+  Collections.sort(sorted,new Comparator<WYGReportSectionModel>() {
+            @Override
+            public int compare(WYGReportSectionModel model1, WYGReportSectionModel model2) {
+                int bookCodeCompareResult = model1.getBookCode().compareTo(model2.getBookCode());
+                if(bookCodeCompareResult!=0){
+                    return bookCodeCompareResult;
+                }
+                return model1.getYear().compareTo(model2.getYear());
+            }
+        });
+
+
+
+
+
+Nr Date Range: 1753
+WYG Date Range:1583
+
+ Collections.sort(sorted,new Comparator<WYGReportSectionModel>() {
+            @Override
+            public int compare(WYGReportSectionModel model1, WYGReportSectionModel model2) {
+                int bookNameCompareResult = model1.getBookName().compareTo(model2.getBookName());
+                if(bookNameCompareResult!=0){
+                    return bookNameCompareResult;
+                }
+                return model2.getYear().compareTo(model1.getYear());
+            }
+        });
+
+
+java.lang.ClassCastException: com.yellowbook.mdb.client.whiteAndYellowPageGrids.model.GridCommentsModel cannot be cast to com.yellowbook.mdb.client.whiteAndYellowPageGrids.widgets.main.gridcomments.WYGGridCommentsSectionWidget
+
+        /*
+        //Traversing the map in a reverse order 
+        Object[] keyArray = (gridCommentsWidgetMap.keySet()).toArray();
+        int keyArrayLength = keyArray==null?0:keyArray.length;
+        for(int index=keyArrayLength-2; index>=0;index--){
+        	WYGGridCommentsSectionWidget widget = gridCommentsWidgetMap.get(keyArray[index]);
+			commentsModels.add(widget.getModifiedGridCommentsModel());
+        }
+        if(keyArrayLength>=1){
+        	WYGGridCommentsSectionWidget lastSectionWidget = (WYGGridCommentsSectionWidget)gridCommentsWidgetMap.get(keyArray[keyArrayLength-1]);
+			commentsModels.add(lastSectionWidget.getModifiedGridCommentsModel());
+        }
+        return commentsModels;*/
+
+
+
+
+760-951-9125
+760-949-4248
+
+mich*
+ab*
+California
+
+
+select top 100* from pull.res where dir_out_flag='X' and 
+ph_area_code in (select ph_area_code from v_dm_search where src='acxiom') and
+ph_exch in (select ph_exch from v_dm_search where src='acxiom') and
+ph_num in (select ph_num from v_dm_search where src='acxiom')
+
+select ph_area_code from v_dm_search where src='acxiom'
+select ph_exch from v_dm_search where src='acxiom'
+select ph_num from v_dm_search where src='acxiom'
+
+Long:072148
+Amlo:070852
+
+
+Worked on Tickets: Ticket #10628, Ticket #10630,  Ticket #10645, Ticket #10646
+Worked on directory out flag requirement in NR module
+Worked on directory out flag requirement in NR module, and Stage1 Included Community requirement in WYG module
+Holiday
+Worked on  Stage2 and Grid Comments Included Community requirement in WYG module
+
+
+1. Worked on comments section dynamic generation in Grid Comments .
+2. Worked on Ignoring duplicates records in Stage1, stage2 with ILEC check( based on ST, Community, NPA, and NXX) and DND implementation in stage1 of WYG module.
+3. Worked on Grid comments Time Zone issue (Newly updated record not retaining at the top) .
+4. Worked on Comments Edit, and Report tabs implementations of WYG module.
+5. Worked on NR module directory out flag implementation and WYG module included community with state requirement  in Stage1 , Stage 2 and GridComments for the current release.
+6. Worked on fixing release tickets.
+
+
+
+
+
+
+
+Worked on issues of Included Community implementation in WYG module.
+Refactored  Direcotory out flag implementation in NR module.
+Worked on null pointer and other issues of Included Community implementation in WYG module.
+Testing the WYG module and fixing the issues.
+Testing the WYG module and fixing the issues.
+
+
+Worked on Stage 1 Anytime Save Modification  in WYG module
+Worked on removing duplicate records from stage1 widget in WYG module
+
+
+
+
+ 
+
+Worked on Ticket #10753, and Testing the application.
+Worked on Ticket  #10628, and Testing the application.
+Testing the application and bug fixing.
+Gone through new release requirements.
+
+
+
+Where should we save the value of new text box, which is placed beside 'QC for Grid Comments' field in QC -Grid Comments.
+If we save that into the Grid Comments table then, it leads to following:
+1.  Suppose if we have 10 comment sections(Grid Comments Objects) to which section this value should go.
+2. How do we display that value in WYG Reports( We have only Grid Quality Objects in reports).
+
+
+
+
+New column has to be added to save 
+WYGQCBellcoreSearchWidget
+
+
+Gone through the new release requirements of Competitive Books and Text Box next to the QCfor Grid Comments.
+Worked on Competitive Books UI layout implementation of WYG module.
+Worked on YPPA code search screen of Competitive Books tab.
+Worked on results screen UI and search handler implemetation of Competitive Books tab.
+Worked on results screen row selection handler implementation of Competitive Books tab.
+
+
+Displaying city with state in the combo box drop down for the Included Community requirement (As we know combo box supprots single field to display in the drop down, but we were required to display City with state). We achieved this problem by concatinating Community and State filed as a temparary field in the model.
+
+	
+Worked on competitive books details save requirement (Deleting a Book if CompetitivePK is already exists and saving the new one)
+Worked on competitive books details save requirement
+Worked on Competitive Books details widget fields population issue
+Worked on competitive books details widget date field validations
+Worked on row selection requirement in competitive books results(Loading the data from db on row selection ) 
+
+
+http://scjptest.com/
+http://www.javaranch.com/game/game2.jsp
+
+1.3
+
+
+
+Ctitical : Avoid Catching Throwable --- done
+Major :  
+
+
+determineCmpId
+handleIndentEdit
+select cmp_setid,name from etl_gs_cmptape where book_code='KSX' and list_type in   ('G','GV')
+
+
+
+ReportingDetailsWidget
+mapCmpTapeToTreeDataModelList
+
+Worked on G&S reports column edits requirement and testing the application.
+UAT support and testing the application.
+UAT support and testing the application.
+UAT support and testing the application.
+Worked on ticket:#11046(Unassigned ticket) and testing the application.
+
+
+In grid comments when there are no comments for the current we are displaying previous year comments and on click of save it will be saved into the current year. Do we need to follow the same in Secionalized Mathheads as well.
+
+
+To load previous year sections into the current year when there are no current year sections:
+- Change the logic in 'getSecGrids()' of 'WYGClientServiceImpl' to pull previous year sections when current year secions list size is '0'
+.
+- When current year 'SecGrid' size is 0, get the previous 'GridEntry' by passing 'book code' and 'FY - 1'.
+- After getting 'GridEntry' pass the 'grid id' and get list of 'SecGrid'. 
+
+To save the previous year sections into the current year:
+- When previous year sections are loaded into the current year on click of save we should save those sections into the current year for that change logic in UI side:
+	-Change the logic in UI side in displaying 'There are no changes to save' alert message.
+-  Change the logic in 'saveSectGrid()' method of  WYGClientServiceImpl. 
+-  Add additional current year 'grid id' field to the above method to save previous year sections into the current  year.
+
+
+
+	public boolean isPreviousYearSectionsLoaded() {
+		boolean previousYearSectionsLoadedFlag = true;
+		for (WYGMastheadsSectionWidget widget : secGridsMap.values()) {
+			previousYearSectionsLoadedFlag &= widget.isPreviousYearSectionsLoaded(currentYearGridId);
+		}
+		return previousYearSectionsLoadedFlag;
+	}
+
+
+
+	/**
+	 * Checks whether previous year's sections are loaded in to the current year(when current year does not contain any sections).
+	 *
+	 * @return true, if previous year sections loaded into the current 
+	 */
+
+
+
+Release 27:  feature name implemented
+
+	public boolean isPreviousYearSectionsLoaded() {
+		boolean previousYearSectionsLoadedFlag=false;
+		for (WYGMastheadsSectionWidget widget : secGridsMap.values()) {
+			previousYearSectionsLoadedFlag &= widget.isPreviousYearSectionsLoaded(currentYearGridId); 
+		}
+		return previousYearSectionsLoadedFlag;
+	}
+
+
+Caused by: org.hibernate.TransientObjectException: object is an unsaved transient instance - save the transient instance before merging: com.yellowbook.dataManager.pojos.GridEntry
+
+            List<WYG> wygList = whiteAndYellowGridService.getWYGDataByGridId(gridEntry.getGridId());
+            List<WYGGridModel> wygGridModels=new ArrayList<WYGGridModel>();
+            for (WYG wyg : wygList) {
+                wygGridModels.add(mapWYGToGridModel(wyg, new WYGGridModel()));
+            }
+            WYGGridCompletionValidator gridCompletionValidator = new WYGGridCompletionValidator();
+            gridCompletionValidator.setAllowDuplicate(false);
+            boolean gridCompleted = gridCompletionValidator.validate(wygGridModels);
+            if(!gridCompleted){
+                return null;
+            }
+
+
+
+In 'DMgrDBCheck.jsp' we have to include the check for 'NR_DataSource' and 'WYG_DataSource' data sources.  It should be more generic(Even if new data sources are added in future we should not change the health check file to include new data source).
+We can get all data sources in the context by using the following method of 'WebApplicationContext' in 'DMgrDBCheck.jsp'
+	'webApplicationContext.getBeansOfType(ComboPooledDataSource.class)';
+	http://stackoverflow.com/questions/10411674/getting-all-the-datasources-configured-in-applicationcontext-xml-file
+
+
+
+WebApplicationContext wac = WebApplicationContextUtils.getRequiredWebApplicationContext(getServletContext());
+ComboPooledDataSource dataSource = (ComboPooledDataSource)wac.getBean("dataSource");
+
+
+	private void determineEnableOrDisableOfNextAndPreviousButtons() {
+		buttonBar.setShowNextPreviousButtons(supportNextPreviousActions);
+		buttonBar.getPreviousButton().setEnabled(models.indexOf(selected) > 0);
+		buttonBar.getNextButton().setEnabled(models.indexOf(selected) < models.size() - 1);
+	}
+
+Querueis on  right click 'Included community comment' requirement:
+
+1 . Requirement says that we need to include the  'Included community comment ' option  on right click(for 'orange' and 'blue' records), and user should select 'Included Community Comment ' option to insert  new comment  in to 'Grid Comments' on click of save button(when char length exceeds 500 chars).       What if user doesn't select right click 'Included Community Comment'  option and click on save directly(when char limit exceeds 500). - Is it required to include 'Included Community Comment ' option to right click menu?
+
+2. As per the requirement new comment should be inserted into 'Grid Comments' when 'Included Community' field limit exceeds 500 chars, in that case what to be inserted in to 'Inc_Community’ column of  'WYG' table - Is it "See Comments" as string?.
+
+3. Consider the below senario: 
+Suppose if 'Inluded Community' text exceeds more than 4000 chars we will create two comments in the 'Grid Comments'
+(one for the 4000 chars, and other for the overflow)
+
+Just in case if user deletes those two comments from the 'Grid Comments' what status should be shown on 'Included Community' field of stage1 and stage2.
+
+
+
+Tasks:
+1. Add 'Included Community Comment'  option to right click menu(for 'orange' and 'blue' records)  and remove '500' max length limit alert for 'Included Community' field.
+2. Check whether the 'inlcuded community' char size exceeds 500 chars: if so save 'See Comments'  text( instead of  list of 'included communities') into the 'Inc_Community' column of wyg table on click of save.
+
+3.  Insert new comment into the 'Grid Comments' table by getting 'Included Community Comment' id from 'Comments' table(If char limit exceeds 4000 create one more comment).
+
+
+
+
+//to do release 28:
+1. Add 'Included Community Comment'  option to right click menu(for 'orange' and 'blue' records)  and remove '500' max length limit alert for 'Included Community' field:
+
+ Remove the validation for 500 char limit in 'WYGIncCommunityValidator.java'
+	if(value != null && value.trim().length() > 500) {
+	            validationFailType = maxLengthValidationFailType;
+	            return false;
+	     }
+	
+2. Check whether the 'inlcuded community' char size exceeds 500 chars:
+When size exceeds more than 500, create new 'Grid Comments' object by getting 'recId' from 'WYG'
+and 'Inluded Community cooment' id from 'Comments' table.
+	Changes:
+	Class : 'WYGClientServiceImpl.java' , 
+	Method: private void mapClientStage1DataToBeSaved(List<WYG> saveList,List<WYGGridModel> clientSaveList)
+		{
+		// Loop through all the 'clientSaveList'  and Check the legth of included community:
+		 if  lengh>500 :
+		 Set 'See comment' text into the 'Inc_Community' column of 'WYG'.
+		 Create new 'Grid Comments' objects by getting 'Included Community Comment' type comment for the 'Comments' table and set the following fields:
+			- GridComments gridComment=new GridComments();	
+			-   gridComment.setCommType(comments.getCommId());
+			- gridComment.setCommText(included community);
+		}
+
+3. If user deletes
+
+http://stackoverflow.com/questions/10735621/how-to-split-a-string-in-java-based-on-limit
+
+	 
+
+BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,dfsdfdfdfddddddddddddd BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)BLOOMINGBURG,BLOOMINGBURG,Clay Twp, CLAY TWP (OH)
+
+
+- Make a asyn calll and in 'ClientServiceImpl file' do the following:
+		String filename="filename";
+		String extension = ".xls";
+	File file=File.createTempFile(filename, extension);
+	//to do: Create work book and write list of models in to that work book as follows
+	 FileOutputStream stream=new FileOutputStream(file);
+	workBook.write(stream);
+
+	HttpSession session = RemoteServiceUtil.getThreadLocalRequest().getSession();
+	session.setAttribute(fileId, new FileInfo(filename+extension, "application/xls", file.getAbsolutePath()));
+	return fileId;
+
+- In Onsuccess of widget do the following:
+	//Here we are passing 'filedId' in request headers ... so we have to get this in the servlet 'doGet/doPost' method
+	//Configure the servlet with the  '*.downloadFile'
+	'filename' is onSuccess result 
+	String url = GWT.getHostPageBaseURL()+GWT.getModuleName()+".downloadFile?fileId=" + filename;
+	Window.open(url,"downloadFrame", "");
+
+- In 'Servlet' 'doGet()' method, do the following:
+ 	        String fileId = req.getParameter("fileId");
+	        FileInfo fileInfo = (FileInfo) req.getSession().getAttribute(fileId);
+	        File file = new File(fileInfo.getFileLocation());
+
+	         InputStream fileInputStream = new FileInputStream(file);
+	        FileCopyUtils.copy(fileInputStream, resp.getOutputStream());
+
+
+
+When we have different 'Communities' but same 'Included Communities'  as follows:
+Community                                       Included Community
+
+comm1  ------------------------------ Inc Community(Lets think it exceeds '4000' chars)
+comm2  ------------------------------ Inc Community(Lets think it exceeds '4000' chars)
+comm3  ------------------------------ Inc Community(Lets think it exceeds '4000' chars)
+
+In such senario how many 'Grid Comments' should be inserted( 1 or 3)?
+
+
+When we have same 'Community'  and different 'Included Communities'  as follows:
+Community                                       Included Community
+
+comm1  ------------------------------ Inc Community1 (Lets think it exceeds '4000' chars)
+comm1  ------------------------------ Inc Community2 (Lets think it exceeds '4000' chars)
+comm1  ------------------------------ Inc Community3 (Lets think it exceeds '4000' chars)
+
+In such senario do we need to insert one 'Grid Comment' by appending the inclued Communities(Ex: Inc Community1 , Inc Community2 ,Inc Community3 )
+
+As we are making the 'Included Community' field as editable field(Stage1, and Stage2) user can edit the filed and enter 'See Comments' as text, in such senario do we need to validate the user.
+
+
+
+
+
+1. once community edited ... take state,city ... and check for other records if found... put ... inc_community
+2. when commmunity edited... if same state,city .... is found... take the edited records inc_commuinity... and .. change...
+
+amlo: 070852
+
+
+http://www.sencha.com/forum/showthread.php?86411-Need-LiveGrid-w-RpcProxy-example
+
+
+
+
+W/Y Grid - Ability to Select Multiple Rows on Stage 1 
+
+Analysis:
+
+1. Override Gxt provided 'GridSelectionModel'  to support multi selection and also to support the selection when it is going out of visible area in the grid(while scrolling).
+	- Write a new class which extends gxt 'GridSelectionModel'
+
+
+
+
+
+/*    	List<WYGGridModel> selectedItems = getSelectionModel().getSelectedItems();
+    	if(selectedItems!=null && selectedItems.size()>1) {
+    		if(selectedItems.size()<=50) {
+    			//todo : check is there any white records are there
+    			boolean isWhiteRecordFound=false;
+    			for (WYGGridModel wygGridModel : selectedItems) {
+    				//checking white records are found or not
+    				if(!getKickOutType(wygGridModel).equals(KickOutType.NoCategory)) {
+    					//to do: check any other color records are found or not
+    					com.google.gwt.user.client.Window.alert("to do");
+    				}
+    				else {
+    					com.google.gwt.user.client.Window.alert("white record found");
+    					break;
+    				}
+    			}
+    		}
+    		else {
+    			com.google.gwt.user.client.Window.alert("exceeded 50");
+    		}
+    	}
+    	
+*/
+
+		if((property.equals(WYGGridModelCommon.COMMUNITY) || property.equals(WYGGridModelCommon.STATE))&& !isStateCommunityExists) {
+			if(Mdb2ClientUtil.notNullCheck(wYGGridModel.getIncCommnity()).equalsIgnoreCase(WYGSeeCommentsEnum.SEE_COMMENTS.getSeeComments()) && wYGGridModel.isHasIncComments()) {
+				wYGGridModel.setHasIncComments(false);
+			}
+			wYGGridModel.setIncCommnity(null);
+		}
+
+
+
+
+
+
+// Included community has to be applied to all the selected records
+
+Missed in Release 28:
+		if((property.equals(WYGGridModelCommon.COMMUNITY) || property.equals(WYGGridModelCommon.STATE))&& !isStateCommunityExists) {
+			if(Mdb2ClientUtil.notNullCheck(wYGGridModel.getIncCommnity()).equalsIgnoreCase(WYGSeeCommentsEnum.SEE_COMMENTS.getSeeComments()) && wYGGridModel.isHasIncComments()) {
+				wYGGridModel.setHasIncComments(false);
+			}
+			wYGGridModel.setIncCommnity(null);
+		}
+
+http://grepcode.com/file/repo1.maven.org/maven2/com.sencha.gxt/gxt/3.0.0-beta4/com/sencha/gxt/widget/core/client/grid/GridSelectionModel.java
+
+
+
+1. To block kickout items from being made an included community of another kickout (orange items on Stage 1), 
+    Make the following changes in 'showIncludedCommunityDialog()'  method of 'WYGPriorYearResultGrid.java' :
+
+    submitButton.addSelectionListener(new SelectionListener<ButtonEvent>() {
+            @Override
+            public void componentSelected(ButtonEvent ce) {
+	/*	
+		 Get the 'models' from the grid by matching community & state  combination, and also get 'selectedItems' ( 'Models matching State & Community'  and  'Selected Items' ).
+		Loop through each of the 'matching models' and 'Selected Items', and look for the 'orange category' of records.
+		If 'matching model' and 'selected item' both contains 'orange category', show 'invalid included community' alert
+
+                         */
+
+
+	}
+             }
+
+			
+
+
+Analysis on G&S on the Queues - Search Source Side Data :
+
+1.  Provide a new button on source side data to get the  pop up menu which contains 'Search interface for source side data'( similar to the force bottom pop up).
+2. The search interface includes two diffrent category of searches:
+	- Phone number Search
+	- Business Name search along with  city and state (city optional) as it is there in the LM and NR. 
+	-  Provide basic validations all the search fields.
+
+
+3.  Phone search:
+	- Once user enters the phone number and submits clear right source side grid, and populate with phone number matching records.
+4. Business Name Search:
+	- Once user enters the Business name, state and city(city is optional) and submits clear right source side grid, and populate with listed name and state matching set of records.
+		
+    
+
+
+
+
+
+http://stackoverflow.com/questions/1706196/different-css-files-for-different-browsers
+
+
+
+
+
+http://www.sencha.com/forum/showthread.php?57307-Safari-datefield-and-combobox-trigger-position-errors
+
+ka - 53 L
+4906
+hibernate.cache.use_second_level_cache=true
+hibernate.cache.use_query_cache=true
+
+
+1. We have checked in the code for W/Y Grid - Grid Comments, Once Comment Box 4000 Character Limit is Reached - Block Entry  ( Blocking the user from entering once character limit is reaches  4000 characters in 'comment text' of  'Grid Comments')
+2. Worked on tabbing trhough issue of cross browser compatibility for NR Add residential tab. 
+
+
+http://www.sencha.com/forum/showthread.php?173505-onKeyPress-Listener-not-getting-fired-in-ie8-only
+http://www.quirksmode.org/dom/events/keys.html
+http://www.quirksmode.org/dom/events/index.html - look into the 'keyPress post'
+
+
+
+  private Listener<FieldEvent> getKeyPressListener(){
+    	return new Listener<FieldEvent>() {
+        	public void handleEvent(FieldEvent be) {
+        		char key = getChar(be.getEvent());
+        		int keyCode = (int)key;
+        		Window.alert("isNavKeyPress : "+be.isNavKeyPress()+":"+be.isShiftKey()+":"+be.isControlKey()+":"+be.isSpecialKey());
+        		Window.alert("code:"+be.getKeyCode()+":"+key+":");
+                if (!((key+"").matches("^[A-Za-z \\'\\-\\&]+$"))) {
+//                	Window.alert("came");
+/*                	if(keyCode!=KeyCodes.KEY_TAB && keyCode!=KeyCodes.KEY_BACKSPACE && keyCode!=KeyCodes.KEY_LEFT && keyCode!=KeyCodes.KEY_RIGHT
+                			&& keyCode!=KeyCodes.KEY_DOWN && keyCode!=KeyCodes.KEY_UP && keyCode!=KeyCodes.KEY_END && keyCode!=KeyCodes.KEY_HOME
+                			&& keyCode!=KeyCodes.KEY_SHIFT )
+*/
+//                	if(!be.isSpecialKey())
+                		be.stopEvent();
+       			 }
+        	}
+            // needed due to GWT 2.1 changes
+            private native char getChar(NativeEvent e) /*-{
+                return e.which || e.charCode || e.keyCode || 0;
+            }-*/;
+		};
+    }
+
+
+
+
+
+			@Override
+			public void handleEvent(FieldEvent be) {
+                if (getUserAgent().contains("firefox") && be.isSpecialKey(getKeyCode(be.getEvent()))) {
+                        return;
+                } 
+				if (isKeyPressValidationRequired
+						&& be.getField().getRawValue().length() >= charLimit && !be.isControlKey()) {
+					be.stopEvent();
+				}
+			}
+			 private native String getUserAgent() /*-{
+             return navigator.userAgent.toLowerCase();
+         }-*/;
+	         private native int getKeyCode(NativeEvent e) /*-{
+             return e.keyCode || 0;
+         }-*/;
+
+
+com.google.gwt.user.server.rpc.UnexpectedException: Service method 'public abstract com.yellowbook.mdb.client.nationalResidential.model.NationalResidentialClient com.yellowbook.mdb.client.nationalResidential.service.NRClientService.saveNRListing(com.yellowbook.mdb.client.nationalResidential.model.NationalResidentialClient)' threw an unexpected exception: org.springframework.dao.DataIntegrityViolationException: could not insert: [com.yellowbook.dataManager.pojos.ResChanged]; SQL [/* insert com.yellowbook.dataManager.pojos.ResChanged */ insert into res_changed (ph_area_code, ph_exch, ph_num, gen_title, last_name, first_name, date_modified, city, state, zip, zip4, print_zip, add_st_num, add_st_name, add_st_sfx, add_pre_dir, add_post_dir, add_unit, add_unit_num, print_name, print_add, print_city, print_state, user_modified, res_changed_type_id, current_flag) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]; nested exception is org.hibernate.exception.DataException: could not insert: [com.yellowbook.dataManager.pojos.ResChanged]
+		
+[res_changed_id] [int] IDENTITY(1,1) NOT NULL,
+  [ph_area_code] [varchar](3) NOT NULL,
+  [ph_exch] [varchar](3) NOT NULL,
+  [ph_num] [varchar](4) NOT NULL,
+  [prefix_title] [varchar](50) NULL,
+  [prof_title] [varchar](50) NULL,
+  [gen_title] [varchar](15) NULL,
+  [last_name] [varchar](30) NULL,
+  [first_name] [varchar](30) NULL,
+  [add_st_num] [varchar](35) NULL,
+  
+[add_pre_dir] [varchar](2) NULL,
+  [add_st_name] [varchar](50) NULL,
+  [add_st_sfx] [varchar](15) NULL,
+  [add_post_dir] [varchar](2) NULL,
+  [add_unit] [varchar](25) NULL,
+  [add_unit_num] [varchar](25) NULL,
+  [city] [varchar](50) NULL,
+  [state] [varchar](2) NULL,
+  [zip] [varchar](5) NULL,
+  [zip4] [varchar](4) NULL,
+  [print_name] [varchar](350) NULL,
+  [print_add] [varchar](65) NULL,
+  [print_city] [varchar](50) NULL,
+  [print_state] [varchar](2) NULL,
+  [print_zip] [varchar](10) NULL,
+  [geo_match_code] [varchar](1) NULL,
+  [geo_lat] [numeric](8, 6) NULL,
+  [geo_long] [numeric](9, 6) NULL,
+  [src_dir_code] [varchar](6) NULL,
+  [src_pub_date] [varchar](8) NULL,
+  [src_book_name] [varchar](50) NULL,
+  [src_pg_num] [varchar](4) NULL,
+  [no_solicit_flag] [varchar](2) NULL,
+  [res_changed_type_id] [int] NOT NULL,
+  [current_flag] [bit] NOT NULL,
+  [date_modified] [datetime] NOT NULL CONSTRAINT [df_res_changed$date_modified] DEFAULT (getdate()),
+  [pcc_ph_full] AS (([ph_area_code]+[ph_exch])+[ph_num]) PERSISTED NOT NULL,
+  [user_modified] [varchar](50) NULL, 
+
+
+
+http://stackoverflow.com/questions/6375845/printing-gwt-cell-table
+
+
+	
+
+Analysis on 'W/Y Grids - Data Enhancements for Included Community Field ' :
+
+To implement in Stage1 and stage2 make the following changes:
+Changes: 
+Class:  WYGClientServiceImpl.java 
+Method:  mapWYGToGridModel(WYG wyg,WYGGridModel model){
+//After getting  included community from wyg (wyg.getCommunity()) write an algorithm to split the included community with ' , ' and sort the list and add it back again as a single string
+ 
+}
+
+To implement in Grid Comments make the following changes:
+Changes:
+Class: WYGClientServiceImpl.java 
+Method: mapGridCommentsToGridCommentsModel(GridComments gridComments) {
+//Check the comment type is of  'Incuded community',  if so reuse the sorting of included communities algorithm written for stage1, and stage2
+}
+
+
+
+
+
+
+
+sec1 :     com1(al), com2(al), com3(al), 
+	add3(),bdd1(al), dd2(zz), 
+
+Compile for all browsers:
+<set-property name="user.agent" value="gecko1_8,ie6,safari" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 org.springframework.beans.factory.BeanDefinitionStoreException: Unexpected exception     parsing XML document from class path resource [spring/spring-security.xml];     nested exception is java.lang.NoSuchMethodError:     org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.getLocalName(Lorg/w3c/dom/Node;)Ljava/lang/String;
+	[INFO]  at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:420)
+	[ERROR] log4j:ERROR Error occured while sending e-mail notification.
+	[ERROR] javax.mail.NoSuchProviderException: smtp
+	[ERROR]     at javax.mail.Session.getService(Session.java:794)
+	[ERROR]     at javax.mail.Session.getTransport(Session.java:716)
+	[ERROR]     at javax.mail.Session.getTransport(Session.java:656)
+	[ERROR]     at javax.mail.Session.getTransport(Session.java:636)
+	[ERROR]     at javax.mail.Session.getTransport(Session.java:693)
+	[ERROR]     at javax.mail.Transport.send0(Transport.java:188)
+	[ERROR]     at javax.mail.Transport.send(Transport.java:120)
+	[ERROR]     at org.apache.log4j.net.SMTPAppender.sendBuffer(Unknown Source)
+	[ERROR]     at org.apache.log4j.net.SMTPAppender.append(Unknown Source)
+	[ERROR]     at org.apache.log4j.AppenderSkeleton.doAppend(AppenderSkeleton.java:230)
+	[ERROR]     at org.apache.log4j.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:65)
+	[ERROR]     at org.apache.log4j.Category.callAppenders(Category.java:203)
+	[ERROR]     at org.apache.log4j.Category.forcedLog(Category.java:388)
+	[ERROR]     at org.apache.log4j.Category.log(Category.java:853)
+	[ERROR]     at org.apache.commons.logging.impl.Log4JLogger.error(Log4JLogger.java:257)
+[ERROR]     at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:215)
+[INFO]  at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:342)
+[INFO]  at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:310)
+[INFO] [ERROR]  at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:45)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:143)
+[ERROR] [INFO]  at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:178)
+    at org.mortbay.jetty.handler.ContextHandler.startContext(ContextHandler.java:543)
+[INFO]  at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:149)
+[INFO]  at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:124)
+[ERROR]     at org.mortbay.jetty.servlet.Context.startContext(Context.java:136)
+[INFO]  at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:92)
+[ERROR]     at org.mortbay.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1220)
+[INFO]  at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:123)
+[INFO]  at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:422)
+[INFO]  at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:352)
+[INFO]  at org.springframework.web.context.ContextLoader.createWebApplicationContext(ContextLoader.java:255)
+[INFO]  at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:199)
+[INFO]  at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:45)
+[INFO]  at org.mortbay.jetty.handler.ContextHandler.startContext(ContextHandler.java:543)
+[INFO]  at org.mortbay.jetty.servlet.Context.startContext(Context.java:136)
+[INFO]  at org.mortbay.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1220)
+[INFO]  at org.mortbay.jetty.handler.ContextHandler.doStart(ContextHandler.java:513)
+[INFO]  at org.mortbay.jetty.webapp.WebAppContext.doStart(WebAppContext.java:448)
+[INFO]  at com.google.gwt.dev.shell.jetty.JettyLauncher$WebAppContextWithReload.doStart(JettyLauncher.java:461)
+[INFO]  at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:39)
+[INFO]  at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+[INFO]  at org.mortbay.jetty.handler.RequestLogHandler.doStart(RequestLogHandler.java:115)
+[INFO]  at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:39)
+[INFO]  at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+[INFO]  at org.mortbay.jetty.Server.doStart(Server.java:222)
+[INFO]  at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:39)
+[INFO]  at com.google.gwt.dev.shell.jetty.JettyLauncher.start(JettyLauncher.java:565)
+[INFO]  at com.google.gwt.dev.DevMode.doStartUpServer(DevMode.java:494)
+[INFO]  at com.google.gwt.dev.DevModeBase.startUp(DevModeBase.java:1058)
+[INFO]  at com.google.gwt.dev.DevModeBase.run(DevModeBase.java:800)
+[INFO]  at com.google.gwt.dev.DevMode.main(DevMode.java:304)
+[INFO] Caused by: java.lang.NoSuchMethodError: org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.getLocalName(Lorg/w3c/dom/Node;)Ljava/lang/String;
+[INFO]  at org.springframework.security.config.SecurityNamespaceHandler.parse(SecurityNamespaceHandler.java:45)
+[INFO]  at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement(BeanDefinitionParserDelegate.java:1297)
+[INFO]  at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement(BeanDefinitionParserDelegate.java:1287)
+[ERROR] [INFO]  at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.parseBeanDefinitions(DefaultBeanDefinitionDocumentReader.java:135)
+    at org.mortbay.jetty.handler.ContextHandler.doStart(ContextHandler.java:513)
+[INFO]  at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.registerBeanDefinitions(DefaultBeanDefinitionDocumentReader.java:92)
+[INFO]  at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.registerBeanDefinitions(XmlBeanDefinitionReader.java:507)
+[INFO]  at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:398)
+[INFO]  ... 31 more
+[ERROR]     at org.mortbay.jetty.webapp.WebAppContext.doStart(WebAppContext.java:448)
+[ERROR]     at com.google.gwt.dev.shell.jetty.JettyLauncher$WebAppContextWithReload.doStart(JettyLauncher.java:461)
+[ERROR]     at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:39)
+[ERROR]     at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+[ERROR]     at org.mortbay.jetty.handler.RequestLogHandler.doStart(RequestLogHandler.java:115)
+[ERROR]     at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:39)
+[ERROR]     at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+[ERROR]     at org.mortbay.jetty.Server.doStart(Server.java:222)
+[ERROR]     at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:39)
+[ERROR]     at com.google.gwt.dev.shell.jetty.JettyLauncher.start(JettyLauncher.java:565)
+[ERROR]     at com.google.gwt.dev.DevMode.doStartUpServer(DevMode.java:494)
+[ERROR]     at com.google.gwt.dev.DevModeBase.startUp(DevModeBase.java:1058)
+[ERROR]     at com.google.gwt.dev.DevModeBase.run(DevModeBase.java:800)
+[ERROR]     at com.google.gwt.dev.DevMode.main(DevMode.java:304)
+
+
+java.lang.NoSuchMethodError: org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.getLocalName(Lorg/w3c/dom/Node;)Ljava/lang/String;
+
+Print_book_caption
+
+Cross browser compatibility issues  Doc:
+1. Instead of adding gxt components(TextFields, ComboBoxes, etc) directly to the FormPanel follow the below steps:
+	- Initialize 'MdbLayoutContainer' with 'Label Align' and 'Label Width' parameters.
+	- Add fields to 'MdbLayoutContainer' object, later add this container to 'Form Panel'.
+2. Don't use padding (left,right,top,down) on fields,  use margin(left,right,top, down) to avoid alignment issues in different browsers.
+3. There will be some nagivation keys issues(tab, shift-tab, shift-home, shift-delete ,etc) in FireFox  on key board stop events(As FireFox returns different key codes), to avoid such issues follow the below steps:
+	-  In 'handleEvent(FieldEvent fe)' method of 'Listener<FieldEvent>' class place the following code:
+		  if (getUserAgent().contains("firefox") && fe.isSpecialKey(getKeyCode(fe.getEvent()))) {
+	                	  return;
+	                }  
+
+http://code.google.com/p/google-web-toolkit-doc-1-5/wiki/DevGuideCrossBrowserSupport
+
+
+public static String getCommaSeperatedSortedListAsString(String incCommunity) {
+		incCommunity=incCommunity!=null?incCommunity:"";
+		String commentPrefix ="";
+		if(incCommunity.contains(":")) {
+			int startingIndex = incCommunity.indexOf(":")+1;
+			commentPrefix = incCommunity.substring(0,startingIndex).trim();
+			String incCommunityBeforeSort = incCommunity.substring(startingIndex,incCommunity.length());
+			incCommunity=incCommunityBeforeSort;
+		}
+		String[] communitiesAfterSplit = incCommunity.split(",");
+		List<String> communitiesList = new ArrayList<String>();
+		for (String value : communitiesAfterSplit) {
+			communitiesList.add(value.trim());
+		}
+		Collections.sort(communitiesList,new Comparator<String>() {
+			public int compare(String o1, String o2) {
+				return o1.compareToIgnoreCase(o2);
+			}
+		});
+		
+		return (commentPrefix+" "+getListAsCommaAppendedString(communitiesList)).trim();
+	}
+
+
+
+
+
+HEADING_SEQNO
+COMPANY_ID
+HEADINGSOURCE_ID - 1,3,2
+HEADINGTYPE
+HEADINGDESCRIPTION
+RELEVANCY
+HEADING_STATUS
+HEADINGID
+SOURCE_HEADING_CODE
+YPPA_CODE
+RATE
+UDAC
+
+CLASSIFICATIONID
+HEADINGTYPEID - 1,3,2
+DESCRIPTION
+GUIDECLASSIFICATIONID
+CROSSCLASSIFICATIONID
+SOURCEHEADINGID
+THESAURUSTERMID
+THESAURUSADDEDDATE
+THESAURUSDELETEDDATE
+ACTIVE
+NEEDREVIEW
+EXPANDEDDESCRIPTION
+CREATEDATE
+CREATEUSER
+MODIFYDATE
+MODIFYUSER
+PROF_HEADING
+
+
+
+New module creation   :
+
+1. Create a new role for 'Mailing Address Extraction' module in 'DataManager.properties' file as follows:
+     mailingAddressExtraction.roles=DDATAMANMAE 2. Add 'mailingAddressExtractionRoles' property in 'AccessRolesRetriever.java' and generate setter for the property.
+3. Create 'MailingAddressExtraction.jsp' and 'MailingAddressExtraction.css' for new module.
+4. Configure new module information in 'Header.jsp' to display a label  in the header drop down.
+5. Add 'MAILING_ADDRESS_EXTRACTION' property in 'Mdb2Modules.java' to ignore the module from displaying in header drop down.
+6. Create new 'MailingAddressExtraction.gwt.xml' file with  following configuration:
+      - Define  <source path="" /> that contains the actual gwt code for the current module
+      - Define  <public path="public" /> that contains gwt resources stuff and exclude  resources for other modules.
+      -  Define <entry-point class ="" />
+7.  create entry point class for the new module ('MailingAddressExtractionEntryPoint.java' )  that sould  implemts 'EntryPoint'
+
+Services to fetch the results based on search criteria:
+
+1. Create a new service call which takes search criteria as an input:
+     SearchResult  getResultsBySearchCriteria(SearchCriteria searchCriteria)  {
+           // If search criteria contains only zip information:
+                        Fetch from 'MASTER_BASE_RECORDS' by matching zipcode by doing like search on the zip code field
+          // If Search criteria also contains 'Headings' information:
+	Fetch from 'COMPANY_HEADINGCODE' by matching 'company_id'(which is retrieved from the 'MASTER_BASE_RECORDS')  to pull the 'print' headings
+        }
+
+     SearchCriteria contains following information:
+      -  ZipCode information(there can be multiple zip codes)
+      - Heading codes information(there can be multiple )		
+
+     SearchResult contains following information:
+     - List of 'MASTER_BASE_RECORDS' for the matching search criteria
+     -  List of 'COMPANY_HEADINGCODE'  for the macthing 'company_id'('print' headings)
+
+	      
+   	  
+
+
+@Override
+	public BusinessLocation getBusinessLocationByAreaCode()
+			throws DataManagerDaoException {
+		return this.getHibernateTemplate().execute(new HibernateCallback<BusinessLocation>() {
+			@Override
+			public BusinessLocation doInHibernate(Session session)
+					throws HibernateException, SQLException {
+				Criteria createCriteria = session.createCriteria(BusinessLocation.class);
+				createCriteria.add(Restrictions.eq("mdbId", 4826962l));
+				return (BusinessLocation)createCriteria.uniqueResult();
+			}
+		});
+	}
+
+
+http://www.findbestopensource.com/product/gwtrpc-spring
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<String> getZipCodes(String zipCode) throws DataManagerDaoException {
+		System.out.println("zip code:"+zipCode);
+		Criteria criteria = sessionFactory.getCurrentSession().createCriteria(LkupAreaCode.class);
+        criteria.add(Restrictions.ilike("zipCode",zipCode, MatchMode.START));
+        criteria.setProjection(Projections.distinct(Projections.property("zipCode")));
+		return criteria.list();
+	}
+
+
+
+
+
+	@Override
+	public List<String> getZipCodes(String zipCode)	throws DataManagerAPIException {
+		try {
+			return mailingAddressExtractionDao.getZipCodes(zipCode);
+		} catch (DataManagerDaoException e) {
+			throw new DataManagerAPIException(e);
+		}
+	}
+
+
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No matching bean of type [com.yellowbook.dataManager.mailingAddressExtraction.service.MailingAddressExtractionService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+1231144
+sdfsdfd
+
+
+Caused by: com.google.gwt.user.client.rpc.SerializationException: Type 'com.yellowbook.mdb.client.mailingAddressExtraction.model.MAEZipCodeModel' was not included in the set of types which can be serialized by this SerializationPolicy or its Class object could not be loaded. For security purposes, this type will not be serialized.: instance = com.yellowbook.mdb.client.mailingAddressExtraction.model.MAEZipCodeModel@4bbdf0
+Caused by: com.google.gwt.user.client.rpc.SerializationException: Type 'com.yellowbook.mdb.client.mailingAddressExtraction.model.MAEZipCodeModel' was not included in the set of types which can be serialized by this SerializationPolicy or its Class object could not be loaded. For security purposes, this type will not be serialized.: instance = com.yellowbook.mdb.client.mailingAddressExtraction.model.MAEZipCodeModel@1b8985b
+
+
+	public boolean setZipCodeValueMatchingRecord() {
+		String rawValue = zipField.getRawValue();
+		boolean isMatchingFound=false;
+		if(rawValue!=null) {
+			List<MAEZipCodeModel> models = zipField.getStore().getModels();
+			for (MAEZipCodeModel maeZipCodeModel : models) {
+				if(maeZipCodeModel.getZipCode().equals(rawValue.trim())) {
+					zipField.setValue(maeZipCodeModel);
+					isMatchingFound=true;
+					break;
+				}
+			}
+		}
+		return isMatchingFound;
+	}
+	
+
+
+33301
+
+12349
+19901
+
+
+
+
+
+Conditions :
+
+1) start date and due date minimum date is Today.
+2) start date and due date should not be same.
+3) Always due date should exceed the start date.
+
+
+
+http://www.sencha.com/forum/showthread.php?73876-DualListField-Width
+
+Gxt 2.2.5 ListField alignment issue on Content Panel collapse/expand in IE
+
+
+MAE tasks:
+
+- Main Search Tab:
+	'Save Query' popup window UI design and buttons implementations with services(including duplication check against query name  in the data base) , validations as per the WIKI  -  Surya &Chaitra
+	'Query Search' section complete UI design and 'Submit' button implementation  - Surya &Chaitra
+	'Query Name' combo box values population by using GWT RPC Proxy(Load values when user types in) - chaitra
+	'Query Name' field complete validations and 'Reset' button alignment to right - narayan
+	'I18' changes for the 'Main Search Tab' and 'Query Edit Tab'- surya
+
+-Query Edit Tab:
+	'Search ' Complete UI design and buttons implementation - jagadeesh
+	Populating Results section on submition of valid 'Query Name'  - jagadeesh
+	'Results' section complete UI design with 'save' and 'save a copy'  buttons implementation(including services) - jagadeesh
+	'Reset' and 'Delete' buttons implementation(Including services) - Narayan
+	UI validation as per the WIKI - Narayan
+	Writing HBM for the new MAE tables - Chaitra
+	
+	
+	
+	
+	
+
+com.google.gwt.user.server.rpc.UnexpectedException: Service method 'public abstract com.extjs.gxt.ui.client.data.PagingLoadResult com.yellowbook.mdb.client.mailingAddressExtraction.service.MailingAddressExtractionClientService.getMailingAddressList(com.yellowbook.mdb.client.mailingAddressExtraction.model.MailingAddressExtractionClientSearchCriteria,com.extjs.gxt.ui.client.data.PagingLoadConfig)' threw an unexpected exception: java.lang.NullPointerException
+
+
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException: Invalid type signature for com.yellowbook.mdb.client.mailingAddressExtraction.model.MAEZipCodesAndHeadingsModel
+	at com.yellowbook.mdb.server.mailingAddressExtraction.MailingAddressExtractionClientServiceImpl.getQueryParamTypesByQueryName(MailingAddressExtractionClientServiceImpl.java:332)
+
+
+
+			MAEZipCodesAndHeadingsModel newCopy = new MAEZipCodesAndHeadingsModel();
+			MAEQueryClientModel maeQueryClientModel = new MAEQueryClientModel();
+			maeQueryClientModel.setQueryId(null);
+			maeQueryClientModel.setCreateDate(maeModelToSave.getMaeQueryClientModel().getCreateDate());
+			maeQueryClientModel.setUpdateDate(maeModelToSave.getMaeQueryClientModel().getUpdateDate());
+			maeQueryClientModel.setCreatedBy(maeModelToSave.getMaeQueryClientModel().getCreatedBy());
+			maeQueryClientModel.setUpdatedBy(maeModelToSave.getMaeQueryClientModel().getUpdatedBy());
+			newCopy.setSavingACopy(true);
+
+
+
+
+
+
+Remove abstract for height and pass it as an argument
+focus setting - IMP
+warning icon on successful save - to be looked into other modules and probably standardize
+save a copy - create date to be new date and update date to be blank
+externalized date format
+
+
+
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town18
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town19
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town20
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town21
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town22
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town23
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town24
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town25
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town26
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town27
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town28
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town29
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town30
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town31
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town32
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town33
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town34
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town35
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town36
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town37
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town38
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town39
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town40
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town41
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town42
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town43
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town44
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town45
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town46
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town47
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town48
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town49
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town50
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town51
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town52
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town53
+OH	Fernan Lake Village Town BLOOMINGBURG BLOOMINGBURG BLOOMINGBURG FARSON Fernan Lake Village Town54
+
+-Xms512m -Xmx1024m
+
+G&S - 105 - scroll - 843
+initial - 15-30
+
+wyg - 105 -scroll - 730
+initial - 141
+scroll dnd - 500
+
+
+Queries:
+
+Do we need to clear 'Cmptape' side listings when user clicks on 'Move All' button on source side to copy entire listing from right to left .
+As we are providing multi selection out of visible area scrolling will get slow when selection includes more records. Do we have any restriction on selection as we have in WYG stage1 bellcore search(50 records).
+
+Analysis:
+To provide multi selection when it goes out of visible are:
+
+	- Reuse the exising selection model 'LiveGridSelectionModel'.
+	-  Set selection 'LiveGridSelectionModel' to grid
+	- Bind selection model to grid when ever data is refreshed.
+	-  Automate vertical scroll bar as the selection goes on
+Changes: 
+	Make the following changes:
+	- In 'initializeEdaOrKeyedGrid()' method of  'GovtAndSchoolTreeWidget.java' class:
+	@Override
+	    protected void initializeEdaOrKeyedGrid() {
+	// Instantiate 'LiveGridSelectionModel' and set the selection model to 'edaOrKeyedLiveGrid'	
+	}
+	
+	- In 'populateEdaOrKeyedWidget()' method of  'GovtAndSchoolTreeWidget.java' class:
+	 private void populateEdaOrKeyedWidget(){
+ 	// After populating Grid store data bind the Grid to 'LiveGridSelectionModel'
+	// Write seperate method to for binding as 'bindGridToSelectionModel()'
+	 // 'bindGridToSelectionModel()' method needs to be called when ever data is changed in the Grid	
+	}
+
+	
+	- Extend  'AutoScrollLiveGridView' In 'MdbLiveGridView' to automate the scrolling when it goes out of visible area
+	- 
+
+
+
+
+- Approve button enabled on sortname onblur. 
+- clear search not loading after replace 
+
+
+
+302-629-3553
+
+
+LM - LkupDiadBook
+G&S , BookExtraction- LkupBook
+WYG - YB_BOOKS
+
+
+
+Analysis on 9 Cross browser compatibility - Book Extraction :
+
+Make the following changes:
+Remove the padding (left/right) have been set on the fields, and stop using padding on fields for alignments. Instead of padding use Gxt Horizonatal Panel and set the alignment.
+Rather than adding field directly to the Gxt ‘FormPanel’ , add those to ‘LayoutContainer’ with ‘MdbFormLayout’ and finally add this layout container to the form panel.
+Check whether we are using any regex on Gxt/Gwt compontents to stop user events, which leads to navigation issues(tab, shift-tab, shift-home, shift-delete) etc.
+
+
+17/09/2012 - 21/09/2012 
+14.5*1460 = 21170  
+AC Minivan
+Toyota Innova
+
+javaeecub@gmail.com
+
+
+ SELECT
+         Bsc.Book_Code,
+         bsc.status
+     FROM
+         book_scope_cmptape bsc 
+     WHERE
+         (
+             BSC.BOOK_CODE, BSC.BOOK_CMPTAPE_ID,1
+         ) IN (
+             SELECT
+                 BOOK_CODE,
+                 BOOK_CMPTAPE_ID,
+                 ROW_NUMBER() OVER (PARTITION 
+             BY
+                 BOOK_CODE 
+             ORDER BY
+                 PRIORITY) rn 
+             from
+                 (SELECT
+                     BOOK_CODE,
+                     BOOK_CMPTAPE_ID,
+                     (CASE STATUS 
+                         WHEN 'C' THEN 1 
+                         WHEN 'E' THEN 2 
+                         WHEN 'A' THEN 3  
+                         WHEN 'W' THEN 4 
+                         WHEN 'R' THEN 5 
+                         ELSE 0 
+                     END)PRIORITY 
+                 FROM
+                     BOOK_SCOPE_CMPTAPE 
+                 WHERE
+                     LIST_TYPE IS NOT NULL 
+                     AND UPPER(STATUS)IN (
+                         'A','E','R','C','W'
+                     ))) 
+             ORDER BY
+                 BSC.BOOK_CODE
+
+
+
+
+
+
+228375
+
+222484 - 3.708066667 - 1753 
+42062 - 0.701033333 - 1753
+G&S - 98375 - 587
+    - 16078 - 587
+
+00751130006409
+00751130006409
+00751130006409
+00751130006409
+
+Georgia - ILEC - UAT
+Indiana - ILEC - UAT
+
+
+http://stackoverflow.com/questions/2122798/gwt-occasional-com-google-gwt-user-client-rpc-serializationexception
+
+
+WY WORLAND 307 347
+	   307 375
+
+
+testdfdfdf 
+testdfdfdfdfdfffdffdfdffdfffff
+testdfdfdfdddd
+testdfdfdfddddtestdfdfdf	
+
+
+https://artifactorykop.corp.ybusa.net/artifactory/repo
+
+To stop editing the scroll after edit:
+http://stackoverflow.com/questions/4859843/celleditor-in-editorgrid-loses-content-when-you-scroll-the-grid
+
+4697
+
+29003
+28992
+28993
+28994
+28999
+29000
+
+
+28973
+28974
+28981
+
+
+28994
+29001
+
+
+http://www.coderanch.com/t/119092/HTML-CSS-JavaScript/Copy-Element
+
+http://stackoverflow.com/questions/7046648/gwt-implementing-cut-copy-paste-in-a-page-having-70-odd-widgets
+
+http://help.dottoro.com/ljctuhrg.php
+
+http://stackoverflow.com/questions/400212/how-to-copy-to-the-clipboard-in-javascript
+
+https://github.com/jonrohan/ZeroClipboard
+
+https://github.com/jonrohan/ZeroClipboard
+
+
+ var text_val=eval(document.getElementById("testId"));
+        text_val.focus();
+        text_val.select();
+        if (!document.all) return; // IE only
+        r = text_val.createTextRange();
+        r.execCommand('copy');
+
+
+
+
+private static native void copy (String s) /*-{
+    $wnd.window.clipboardData.setData("Text", s); 
+}-*/;
+
+	private native void copyWithPromt(String text) /*-{
+	
+		 window.prompt ("Copy to clipboard: Ctrl+C, Enter", text);
+		 
+	}-*/;
+
+	private native void copyWithPromtForCommand(String text) /*-{
+	     document.execCommand (text, false, null);
+	 
+}-*/;
+	
+/*	
+	private native void copyForAll(String text) -{
+		
+		if (window.clipboardData) // Internet Explorer
+	    {  
+	        window.clipboardData.setData("Text", text);
+	    }
+	    else
+	    {  
+	        unsafeWindow.netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");  
+	        const clipboardHelper = Components.classes["@mozilla.org/widget/clipboardhelper;1"].getService(Components.interfaces.nsIClipboardHelper);  
+	        clipboardHelper.copyString(text);
+	    }
+		
+	}-;
+	
+*/	
+
+	private native void copyAllClip(String text)/*-{
+	var flashId = 'flashId-HKxmj5';
+
+    var clipboardSWF = 'http://appengine.bravo9.com/copy-into-clipboard/clipboard.swf';
+
+    if(!document.getElementById(flashId)) {
+        var div = document.createElement('div');
+        div.id = flashId;
+        document.body.appendChild(div);
+    }
+    document.getElementById(flashId).innerHTML = '';
+    var content = '<embed src="' + 
+        clipboardSWF +
+        '" FlashVars="clipboard=' + encodeURIComponent(text) +
+        '" width="0" height="0" type="application/x-shockwave-flash"></embed>';
+    document.getElementById(flashId).innerHTML = content;
+	
+	}-*/;
+	
+	
+	private native void getCopyData(String testId) /*-{
+		 var text_val=eval(document.getElementById(testId));
+        text_val.focus();
+        text_val.select();
+        if (!document.all) return; // IE only
+        r = text_val.createTextRange();
+        r.execCommand('copy');
+
+		
+	}-*/;
+	
+	private native void getSwfData(String text) /*-{
+            $wnd.alert("Inside native");
+            if($wnd.clipboardData){  
+                  $wnd.alert("Inside if loop....");
+                  $wnd.alert(text) 
+                  $wnd.clipboardData.setData('text',text);   
+                  $wnd.alert('The text is copied to your clipboard...');   
+            }else { 
+                  $wnd.alert("inside else.......");  
+                  var clipboarddiv=$doc.getElementById('divclipboardswf');   
+            if(clipboarddiv==null){ 
+                  $wnd.alert("Inside div");  
+                        clipboarddiv=$doc.createElement('div');   
+                  clipboarddiv.setAttribute("name", "divclipboardswf");   
+                        clipboarddiv.setAttribute("id", "divclipboardswf");   
+                        $doc.body.appendChild(clipboarddiv);   
+            }   
+            clipboarddiv.innerHTML='<embed src="clipboard.swf" FlashVars="clipboard='+   
+                  encodeURIComponent(text)+'" width="0" height="0" type="application/x-shockwave-flash"></embed>';   
+      }   
+      }-*/;
+
+
+
+
+
+
+http://www.rahulsingla.com/blog/2010/03/extjs-copy-gridpanel-content-to-clipboard
+http://blog.dandoy.org/2011/09/using-zeroclipboard-with-gwt.html
+http://www.steamdev.com/zclip/
+
+whiteAndYellowPageGridsCommentsEdit
+
+
+Size:2103.......diff:47797 - new
+Size:1070.......diff:24313
+
+Size:1119.......diff:35140 - old
+Size:1259.......diff:37094 - old
+Size:1259.......diff:36984
+
+
+                  //String sql QueryToFetchCmpSetIds = "select distinct l.cmp_setid from etl_gs_cmptape l, (select distinct cmp_setid,status from etl_gs_cmptape_eda_xref where status in ('W','S','R') union select distinct cmp_setid,status from etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg where egckx.setid=skbg.setid  and  skbg.yppa_code in (select yppa_code from lkup_book_yppa where book_code='"+bookCode+"') and status in ('W','S','R') order by status desc) x, (select distinct cmp_setid,status from etl_gs_cmptape_sets where status in ('S','R')order by status desc) s where l.cmp_setid =x.cmp_setid(+) and l.book_code='"+bookCode+"' and l.list_type in ("+listType+") and l.cmp_setid in (decode (x.status,'S',x.cmp_setid,'R',x.cmp_setid,'W',x.cmp_setid,null,l.cmp_setid)) and (l.cmp_setid =s.cmp_setid or l.cmp_setid =x.cmp_setid) and l.cmp_setid >0 UNION select  distinct cmp_setid from etl_gs_cmptape where cmp_setid not in (select distinct cmp_setid from etl_gs_cmptape_eda_xref)  and cmp_setid not in(SELECT DISTINCT egckx.cmp_setid FROM etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg WHERE egckx.setid =skbg.setid AND skbg.yppa_code IN ( SELECT yppa_code FROM lkup_book_yppa WHERE book_code='"+bookCode+"' )) and cmp_setid not in(select cmp_setid from etl_gs_cmptape_sets) and book_code ='"+bookCode+"' and list_type in ("+listType+")";
+//                	String sqlQueryToFetchCmpSetIds = "select * from (SELECT DISTINCT l.cmp_setid,l.name name FROM etl_gs_cmptape l, (SELECT DISTINCT cmp_setid, status FROM etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs) AND upper(status) IN ('W', 'S', 'R') union select distinct cmp_setid,status from etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg where egckx.setid=skbg.setid  and  skbg.yppa_code in (select yppa_code from lkup_book_yppa where upper(book_code)=:bookCode) and upper(status) in ('W','S','R') order by status desc) x, (select distinct cmp_setid,status from etl_gs_cmptape_sets where upper(status) in ('S','R','W')order by status desc) s where l.cmp_setid =x.cmp_setid(+) and upper(l.book_code)=:bookCode and upper(l.list_type) in (:listType) and l.cmp_setid in (decode (upper(x.status),'S',x.cmp_setid,'R',x.cmp_setid,'W',x.cmp_setid,null,l.cmp_setid)) and (l.cmp_setid =s.cmp_setid or l.cmp_setid =x.cmp_setid) and l.cmp_setid >0 UNION select  distinct cmp_setid,name from etl_gs_cmptape where cmp_setid not in (select distinct cmp_setid from etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs))  and cmp_setid not in(SELECT DISTINCT egckx.cmp_setid FROM etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg WHERE egckx.setid =skbg.setid AND skbg.yppa_code IN ( SELECT yppa_code FROM lkup_book_yppa WHERE upper(book_code)=:bookCode)) and cmp_setid not in(select cmp_setid from etl_gs_cmptape_sets) and upper(book_code) =:bookCode and upper(list_type) in (:listType) UNION SELECT distinct cmp_setid,name  FROM LOAD_GS_CMPTAPE where upper(book_code) =:bookCode and upper(list_type) in (:listType) and cmp_setid NOT IN (SELECT distinct  cmp_setid FROM ETL_GS_CMPTAPE  where upper(book_code) =:bookCode and upper(list_type) in (:listType)) AND CMP_SETID IN (SELECT distinct cmp_setid FROM ETL_GS_CMPTAPE_SETS WHERE upper(book_code) =:bookCode and  STATUS IN ('W','S','R'))) order by lower(name)";
+//                 	String sqlQueryToFetchCmpSetIds = "WITH combined AS (SELECT DISTINCT l.cmp_setid,l.name FROM load_gs_cmptape l where upper(l.book_code)  =:bookCode and upper(l.list_type) IN(:listType) UNION SELECT DISTINCT e.cmp_setid,e.name FROM etl_gs_cmptape e where upper(e.book_code)  =:bookCode and upper(e.list_type) IN(:listType) and e.cmp_setid NOT IN ( SELECT DISTINCT l.cmp_setid FROM load_gs_cmptape l where upper(l.book_code)  =:bookCode and upper(l.list_type) IN(:listType))) select * from (SELECT DISTINCT l.cmp_setid, l.name name FROM combined l, (SELECT DISTINCT cmp_setid, status FROM etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs) AND upper(status) IN ('W', 'S', 'R') union select distinct cmp_setid, status from etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg where egckx.setid=skbg.setid and  skbg.yppa_code in (select yppa_code from lkup_book_yppa where upper(book_code)=:bookCode) and upper(status) in ('W','S','R') order by status desc) x, (select distinct cmp_setid, status from etl_gs_cmptape_sets where upper(status) in ('S','R','W') order by status desc) s where l.cmp_setid =x.cmp_setid(+) and l.cmp_setid in (decode (upper(x.status),'S',x.cmp_setid,'R',x.cmp_setid,'W',x.cmp_setid,null,l.cmp_setid)) and (l.cmp_setid =s.cmp_setid or l.cmp_setid =x.cmp_setid) UNION select distinct cmp_setid,name from combined where cmp_setid not in (select distinct cmp_setid from etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs))  and cmp_setid not in(SELECT DISTINCT egckx.cmp_setid FROM etl_gs_cmptape_keyed_xref egckx,stg_keyed_biz_gs skbg WHERE egckx.setid =skbg.setid AND skbg.yppa_code IN (SELECT yppa_code FROM lkup_book_yppa WHERE upper(book_code)=:bookCode)) and cmp_setid not in(select cmp_setid from etl_gs_cmptape_sets)) order by lower(name)";
+                 	String sqlQueryToFetchCmpSetIds = "WITH combined AS (SELECT DISTINCT l.cmp_setid,l.name FROM load_gs_cmptape l where upper(l.book_code)  =:bookCode and upper(l.list_type) IN(:listType) UNION SELECT DISTINCT e.cmp_setid,e.name FROM etl_gs_cmptape e where upper(e.book_code)  =:bookCode and upper(e.list_type) IN(:listType) and e.cmp_setid NOT IN ( SELECT DISTINCT l.cmp_setid FROM load_gs_cmptape l where upper(l.book_code)  =:bookCode and upper(l.list_type) IN(:listType))) select * from (SELECT DISTINCT l.cmp_setid, l.name name FROM combined l, (SELECT DISTINCT cmp_setid, status FROM etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs) AND upper(status) IN (:status) union select distinct cmp_setid, status from etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg where egckx.setid=skbg.setid and  skbg.yppa_code in (select yppa_code from lkup_book_yppa where upper(book_code)=:bookCode) and upper(status) in (:status) order by status desc) x, (select distinct cmp_setid, status from etl_gs_cmptape_sets where upper(status) in (:status) order by status desc) s where l.cmp_setid =x.cmp_setid(+) and l.cmp_setid in (decode (upper(x.status),:sStatus,x.cmp_setid,:rStatus,x.cmp_setid,:wStatus,x.cmp_setid,null,l.cmp_setid)) and (l.cmp_setid =s.cmp_setid or l.cmp_setid =x.cmp_setid) UNION select distinct cmp_setid,name from combined where cmp_setid not in (select distinct cmp_setid from etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs))  and cmp_setid not in(SELECT DISTINCT egckx.cmp_setid FROM etl_gs_cmptape_keyed_xref egckx,stg_keyed_biz_gs skbg WHERE egckx.setid =skbg.setid AND skbg.yppa_code IN (SELECT yppa_code FROM lkup_book_yppa WHERE upper(book_code)=:bookCode)) and cmp_setid not in(select cmp_setid from etl_gs_cmptape_sets)) order by lower(name)";
+
+
+				//String sqlQueryToFetchCmpSetIds = "WITH combined AS (SELECT DISTINCT l.cmp_setid,l.name FROM load_gs_cmptape l where upper(l.book_code)  =:bookCode and upper(l.list_type) IN(:listType) UNION SELECT DISTINCT e.cmp_setid,e.name FROM etl_gs_cmptape e where upper(e.book_code)  =:bookCode and upper(e.list_type) IN(:listType) and e.cmp_setid NOT IN ( SELECT DISTINCT l.cmp_setid FROM load_gs_cmptape l where upper(l.book_code)  =:bookCode and upper(l.list_type) IN(:listType))) select * from (SELECT DISTINCT l.cmp_setid, l.name name FROM combined l, (SELECT DISTINCT cmp_setid, status FROM etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs) AND upper(status) IN (:status) union select distinct cmp_setid, status from etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg where egckx.setid=skbg.setid and  skbg.yppa_code in (select yppa_code from lkup_book_yppa where upper(book_code)=:bookCode) and upper(status) in (:status) order by status desc) x, (select distinct cmp_setid, status from etl_gs_cmptape_sets where upper(status) in (:status) order by status desc) s where l.cmp_setid =x.cmp_setid(+) and l.cmp_setid in (decode (upper(x.status),:sStatus,x.cmp_setid,:rStatus,x.cmp_setid,:wStatus,x.cmp_setid,null,l.cmp_setid)) and (l.cmp_setid =s.cmp_setid or l.cmp_setid =x.cmp_setid) UNION select distinct cmp_setid,name from combined where cmp_setid not in (select distinct cmp_setid from etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs))  and cmp_setid not in(SELECT DISTINCT egckx.cmp_setid FROM etl_gs_cmptape_keyed_xref egckx,stg_keyed_biz_gs skbg WHERE egckx.setid =skbg.setid AND skbg.yppa_code IN (SELECT yppa_code FROM lkup_book_yppa WHERE upper(book_code)=:bookCode)) and cmp_setid not in(select cmp_setid from etl_gs_cmptape_sets)) order by lower(name)";
+
+
+
+
+                String sqlQueryToFetchCmpSetIds = "select * from (SELECT DISTINCT l.cmp_setid,l.name name FROM etl_gs_cmptape l, (SELECT DISTINCT cmp_setid, status FROM etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs) AND upper(status) IN (:status) union select distinct cmp_setid,status from etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg where egckx.setid=skbg.setid  and  skbg.yppa_code in (select yppa_code from lkup_book_yppa where upper(book_code)=:bookCode) and upper(status) in (:status) order by status desc) x, (select distinct cmp_setid,status from etl_gs_cmptape_sets where upper(status) in (:status)order by status desc) s where l.cmp_setid =x.cmp_setid(+) and upper(l.book_code)=:bookCode and upper(l.list_type) in (:listType) and l.cmp_setid in (decode (upper(x.status),:sStatus,x.cmp_setid,:rStatus,x.cmp_setid,:wStatus,x.cmp_setid,null,l.cmp_setid)) and (l.cmp_setid =s.cmp_setid or l.cmp_setid =x.cmp_setid) and l.cmp_setid >0 UNION select  distinct cmp_setid,name from etl_gs_cmptape where cmp_setid not in (select distinct cmp_setid from etl_gs_cmptape_eda_xref WHERE srcset_id IN (SELECT DISTINCT srcset_id FROM stg_eda_biz_gs))  and cmp_setid not in(SELECT DISTINCT egckx.cmp_setid FROM etl_gs_cmptape_keyed_xref egckx, stg_keyed_biz_gs skbg WHERE egckx.setid =skbg.setid AND skbg.yppa_code IN ( SELECT yppa_code FROM lkup_book_yppa WHERE upper(book_code)=:bookCode)) and cmp_setid not in(select cmp_setid from etl_gs_cmptape_sets) and upper(book_code) =:bookCode and upper(list_type) in (:listType) UNION SELECT distinct cmp_setid,name  FROM LOAD_GS_CMPTAPE where upper(book_code) =:bookCode and upper(list_type) in (:listType) and cmp_setid NOT IN (SELECT distinct  cmp_setid FROM ETL_GS_CMPTAPE  where upper(book_code) =:bookCode and upper(list_type) in (:listType)) AND CMP_SETID IN (SELECT distinct cmp_setid FROM ETL_GS_CMPTAPE_SETS WHERE upper(book_code) =:bookCode and  STATUS IN (:status))) order by lower(name)";
+
+
+New License Key: 23O6-I5U1-T4WX-5J79
+
+
+WS197-PC418-SDD
+
+BaseURL : 127.0.0.1
+uberSVN Port : 9890
+Apache Subversion Port: 9880
+uberSVN Portal URL http://127.0.0.1:9890/ubersvn 
+Repository Access URL http://127.0.0.1:9880/your-repository-names 
+http://127.0.0.1:9890/ubersvn
+Server Name:
+WS197-PC418-SDD
+jagadeesh9.k@gmail.com
+nopassword@99	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File INDEX_DIR = new File(sampleL+"/"+companiesLocation);
+
+/*				StringBuffer sqlBuffer = new StringBuffer();
+				sqlBuffer.append("select LOG_ID,CREATE_DATE,USER_NAME,CHANGE_SOURCE,ACTION,LISTING_TYPE,BOOK_CODE,CAPTION,NAME from gs_user_audit_log ");
+				if(StringUtils.hasText(searchCriteria.getSortColumn())){
+					
+				}
+				else {
+					sqlBuffer.append("order by upper(USER_NAME) desc ");
+				}
+*/			
+
+
+
+
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<GovtAndSchoolsUserAudit> getGAndSReportResults(final GAndSReportServerSearchCriteria searchCriteria) throws DataManagerDaoException{
+		return this.getHibernateTemplate().executeFind(new HibernateCallback<List<GovtAndSchoolsUserAudit>>() {
+			@Override
+			public List<GovtAndSchoolsUserAudit> doInHibernate(Session session)
+					throws HibernateException, SQLException {
+				
+				Criteria createCriteria = session.createCriteria(GovtAndSchoolsUserAudit.class);
+				createCriteria.add(Restrictions.between("timestamp",searchCriteria.getStartDate(), searchCriteria.getEndDate()));
+				if(searchCriteria.getListingType()!=null && !searchCriteria.getListingType().isEmpty()) {
+					createCriteria.add(Restrictions.eq("listingType", searchCriteria.getListingType()));
+				}
+				if(searchCriteria.getBookCode()!=null && !searchCriteria.getBookCode().isEmpty()) {
+					createCriteria.add(Restrictions.eq("bookCode", searchCriteria.getBookCode()));
+
+				}
+				if(searchCriteria.getCoordinator()!=null && !searchCriteria.getCoordinator().isEmpty()) {
+					createCriteria.add(Restrictions.eq("userId", searchCriteria.getCoordinator()));
+					
+				}
+				if(searchCriteria.getBookCode()!=null && !searchCriteria.getBookCode().isEmpty()) {
+					createCriteria.add(Restrictions.eq("bookCode", searchCriteria.getBookCode()));
+				}
+				
+				boolean hasText = StringUtils.hasText(searchCriteria.getSortColumn());
+				if(hasText && searchCriteria.getSortColumn().equalsIgnoreCase("asc")) {
+					createCriteria.addOrder(Order.asc(searchCriteria.getSortColumn()));
+				}
+				else {
+					createCriteria.addOrder(Order.desc("timestamp"));
+				}
+				return createCriteria.list();
+				
+			}
+		});
+	}
+
+	at com.yellowbook.mdb.server.governmentAndSchools.GovernmentAndSchoolsReportingClientServiceImpl.getGAndSReportResults(GovernmentAndSchoolsReportingClientServiceImpl.java:69)
+
+
+
+
+http://stackoverflow.com/questions/13246614/how-to-call-stored-procedure-with-multiple-in-and-out-parameters-using-entity-ma
+http://www.mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-out-parameter-example/
+
+
+//					listStore.add(result);
+					List<GAndSPendingReloadModel> models = new ArrayList<GAndSPendingReloadModel>();
+					for(int i=0;i<=100;i++) {
+						GAndSPendingReloadModel gAndSPendingReloadModel = new GAndSPendingReloadModel();
+						gAndSPendingReloadModel.setBookCode("book Code"+i);
+						gAndSPendingReloadModel.setBookName("BOOK NAME"+i);
+						gAndSPendingReloadModel.setUserID("User id"+i);
+						gAndSPendingReloadModel.setListingType("Listing type"+i);
+						final Date date = new Date();
+						CalendarUtil.addDaysToDate(date, i);
+						gAndSPendingReloadModel.setDateRemoved(date);
+						models.add(gAndSPendingReloadModel);
+					}
+					listStore.add(models);
+
+
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException: This application is out of date, please click the refresh button on your browser. ( Blocked attempt to access interface 'com.sample.client.SampleGwtClientService', which is not implemented by 'com.server.RpcMapper'; this is either misconfiguration or a hack attempt )
+
+
+Transportation consumer complaints
+
+call excise tax unit
+9167392582
+
+dif: 1312
+1250
+with app: 1281
+with app : 765
+old app: 906,709,703
+http://www.sencha.com/forum/showthread.php?151160-customize-browser-close-message-in-IE
+
+
+
+
+http://stackoverflow.com/questions/12536548/gxt-gwt-javascript-copy-data-to-the-clipboard
+
+http://msdn.microsoft.com/en-us/library/ms536907%28VS.85%29.aspx
+https://developer.mozilla.org/en-US/docs/Web/API/window.onbeforeunload
+
+
+select * from res_changed where ph_area_code=888 and ph_exch=777 and ph_num=9995
+select geo_lat,geo_long,user_modified from res_changed where ph_area_code=888 and ph_exch=777 and ph_num=9995
+select 
+add_st_num,
+add_pre_dir,
+add_st_name,
+add_st_sfx,
+add_post_dir,
+add_unit,
+add_unit_num , geo_lat,geo_long
+from res_changed where ph_area_code=123 and ph_exch=456 and ph_num=7809
+
+http://docs.codehaus.org/display/SONAR/Extending+Coding+Rules
+http://regexp.online-toolz.com/tools/regexp-editor.php
+
+
+08751610013361
+
+
+System Time	2:59:44 AM
+buildNumber	50
+buildId	2013-06-19_11-29-34
+buildTag	hudson-DatamanagerGWT.Release-50
+svnRevision	224457
+version	40.0.3
+http://www.pixy.cz/blogg/clanky/css-fieldsetandlabels.html
+
+D:\IB1123\Jagadeesh Backup files\Branches\IDQ SSQ - Feature branch\DMClient\target\MDBDataManager\WEB-INF\classes\com\yellowbook\mdb\server\iddDm
+
+
+		request.getRequestDispatcher("../IDD_DMScreen.jsp").forward(request,response);
+
+
+http://checkstyle.sourceforge.net/writingchecks.html
+http://checkstyle.sourceforge.net/config.html
+http://docs.codehaus.org/display/SONAR/Quality+Profiles#QualityProfiles-EditingProfile
+http://sonar.15.x6.nabble.com/Cannot-use-PMD-or-Checkstyle-td3214270.html
+93.8% 
+http://www.tizag.com/SEOTutorial/
+http://stackoverflow.com/questions/4306212/using-log4j-to-send-email-reports-via-the-smtpappender
+
+0.20.2
+
+http://mail-archives.apache.org/mod_mbox/nutch-user/200707.mbox/%3Ce761bb3c0707242303w4fa2c910t327c7cb77a30397@mail.gmail.com%3E
+2.x/conf
+http://webcache.googleusercontent.com/search?q=cache:I_-a-FWWlWkJ:www.michael-noll.com/blog/2011/04/14/building-an-hadoop-0-20-x-version-for-hbase-0-90-2/+&cd=1&hl=en&ct=clnk&gl=us
+http://hbase.apache.org/cygwin.html
+WS197-PC418-SDD\Administrator
+http://superuser.com/questions/110726/how-to-uninstall-reinstall-cygwin-to-use-the-sshd
+http://hbase.apache.org/cygwin.html
+http://ics.upjs.sk/~novotnyr/blog/334/setting-up-hbase-on-windows
+jagadeesh.
+
+http://www.building-blocks.com/thinking/building-a-search-engine-with-nutch-and-solr-in-10-minutes/
+
+LoginDetails:
+IB1123
+Nopassword321
+http://192.168.134.170:8080/solr/#/
+
+java -jar start.jar
+http://localhost:8983/solr/#/
+http://wiki.apache.org/nutch/IndexMetatags
+http://wiki.apache.org/nutch/WritingPluginExample-0.9
+thumbnailURL
+videoStillURL
+http://www.wrangler-europe.com/
+http://help.adobe.com/en_US/flex/using/WS2db454920e96a9e51e63e3d11c0bf680e1-7ffe.html
+http://grokbase.com/t/nutch/user/068ay45j7h/crawling-flash
+http://demo.swfupload.org/v220/simpledemo/index.php
+http://museumofmedownloads.intel.com.edgesuite.net/museumofme/preloader.swf
+http://museumofmedownloads.intel.com.edgesuite.net/museumofme/preloader.swf
+http://localhost:9090/Test/test3.swf
+http://www.ceamasa.com./
+http://www.frenchlaundry.com/
+http://www.frenchlaundry.com/js/swfobject.js
+
+
+http://lucene.472066.n3.nabble.com/javascript-in-href-does-not-get-into-outlink-td3992405.html
+
+http://www.frenchlaundry.com/index.swf
+http://www.asual.com/swfaddress/samples/flash/
+
+
+
+<result name="response" numFound="1" start="0">
+  <doc>
+    <str name="content">Mix. 
+ Edit. 
+ Master. 
+ Compose. 
+ Animate. 
+ With a single suite of powerful tools 
+ that work together as one. 
+ World-class video and audio tools that bring  
+ new power and efficiency to your film, video,  
+ DVD, and web workflows. 
+ Learn more. 
+</str>
+    <str name="segment">20130808152750</str>
+    <float name="boost">1.0</float>
+    <str name="digest">f78d540fb90fc426d3cca49240e9198b</str>
+    <date name="tstamp">2013-08-08T09:57:52.359Z</date>
+    <str name="id">http://localhost:9090/Test/test3.swf</str>
+    <str name="url">http://localhost:9090/Test/test3.swf</str>
+    <long name="_version_">1442794313629040640</long></doc>
+</result>
+
+
+http://www.webwasp.co.uk/tutorials/004/F8-Demo/
+
+SWF examples:
+http://www.swftools.org/examples.html
+http://www.drivehq.com/help/swf/onlinebackup/OnlineBackupdemo.htm
+http://localhost:9090/SWF%20test/DemoEmbedObject.html
+
+http://find.searchhub.org/p:nutch?q=not+crawling+swf+
+
+
+
+1. HBM and POJO changes related to newly created table.(
+2. In daoimpl, delete implementation using HQL(udpate table set status = 'D' and username='' where in(,,passed long list,,)).
+3. Client side: POJO mapping, client mappling.
+uskoppdm51d.yellglobal.net:8080/MDBDataManager/IDDContactScreen?userName=ccc&rowIdObject=1234&companyName=abc
+9985917653
+http://lucene.472066.n3.nabble.com/Not-crawling-SWF-pages-using-Nutch1-x-tt4083574.html
+http://www.sencha.com/forum/showthread.php?54039-Ext-GWT%28Gxt%29-vs-GWT-Ext
+
+
+
+Demo:
+http://www.sencha.com/examples-2/#overview
+http://www.gwtproject.org/doc/latest/DevGuideServerCommunication.html
+
+Sites to be refered:
+http://www.gwtproject.org/doc/latest/DevGuide.html
+http://www.sencha.com/examples-2/#overview
+
+http://www.gwtproject.org/doc/latest/FAQ_DebuggingAndCompiling.html
+
+1. What is GWT:
+	GWT is an opensource web application frame work provided by the google. 
+2. GXT: also called as GWT Ext.
+	is an GWT wrapper, in which code can be written in java, later it will be compiled into the javascript file by GWT compiler.
+3. GWT is a light weight component, it won't give the rich look of UI compare to GXT. But if you are a CSS expert then you can design better UI using GWT components.
+4. GXT components are heavy weight, and will provides rich UI. 
+5. 
+
+
+http://code.google.com/p/google-web-toolkit-doc-1-4/wiki/DevGuideRemoteProcedureCalls
+
+http://www.tutorialspoint.com/gwt/gwt_rpc_communication.htm
+
+
+http://www.mastertheboss.com/jboss-soa/jboss-esb-tutorial/page-2
+
+Only one dnp_sl_no - first record should be inserted.
+Action : Address,city,state field(s) checked ; map,phone field(s) unchecked
+comment :User comment
+
+
+IB0699
+Internet and sound is not working
+format c drive
+
+
+details:
+
+jaggu9_k
+nopassword
+
+12864
+
+KJM
+TPTY
+
+K Jagadeesh Babu
+
+5242160000154145
+
+https://www.irctc.co.in/
+
+1029947
+4825782
+4380723
+4148728
+12612401
+1049538
+4389430
+7170063
+12612327
+12512448
+5431284
+1054212
+4827096
+10977178
+1053052
+
+30001000479
+
+
+Computer Name: WS197-PC418-SDD.Yelladworks.in
+RAM: 3GB
+
+Narayan swamy:
+
+EmpID: IB1161
+Computer Name: WS198-PC261-SDD.Yelladworks.in
+RAM: 3GB
+
+
+
+1054212
+
+v_reddyc01
+RajA@0408
+
+http://ybkoppdm01:8080/MDBDataManager/appinfo
+http://ybkoppdm02:8080/MDBDataManager/appinfo
+
+
+jamon:
+http://javasight.wordpress.com/2010/10/04/monitoring-with-spring-and-jamon-using-jamonperformancemonitorinterceptor/
+http://www.consulting-notes.com/2011/08/performance-monitoring-with-spring-aop.html
+
+eclipse:eclipse -DdownloadSources=true
+
+http://www.pretechsol.com/2012/10/how-to-create-message-driven-bean-in.html#.Ul-Rw3_b2vg
+http://mockrunner.sourceforge.net/examplesjms.html
+
+http://jaiswaltraining.com/ejb2.1/jboss/ch1.php
+https://community.jboss.org/wiki/ReferenceEJB3BeansFromEJB2Beans
+
+
+C:\Documents and Settings\IB1123\Desktop\Releases\Branch 43.0.0\MDBServices
+C:\Documents and Settings\IB1123\Desktop\Releases\Branch 43.0.0\DM
+D:\IB1123\Jagadeesh Backup files\Branches\SnapShot - 26\Demo1.0
+
+D:\IB1123\Jagadeesh Backup files\Branches\SnapShot - 26\Demo1.0
+
+
+
+
+
+New should be:
+
+Build 57, Version 43.0.3
+http://ybkoppdm01:8080/MDBDataManager/appinfo
+http://ybkoppdm02:8080/MDBDataManager/appinfo
+
+Build 10, Version 3.0.1
+http://ybkoppdm01:8080/MDB2Scheduler/appinfo
+http://ybkoppdm02:8080/MDB2Scheduler/appinfo
+
+http://ybkoppdm01:8080/MDBDataManager/DataMgrDBStatusCheck
+http://ybkoppdm02:8080/MDBDataManager/DataMgrDBStatusCheck
+
+v_reddyc01
+RajA@0408
+
+
+Mdbids:
+4826962
+10004608463
+1343296
+10005831071
+10008611504
+10013406897
+10011161272
+10016129733
+4341270
+1343296
+1419466
+2739745
+10000816548
+10003863473
+
+RCF
+1017814
+1049976
+
+1024490 - andy
+6021833
+5061154
+6021067
+1025844
+4392711
+40000471858
+6021840
+6018744
+11603388
+1024214
+12877989
+5332931
+6939123
+10059364
+1022605
+6018926
+2656152
+4148368
+9065002
+2673546
+
+DNP-B
+20000136163
+1525636
+1522199
+1542355
+1512578
+1558793
+1568451
+1575676
+1576102
+1580399
+
+
+DNP-I
+1463726
+30000417511
+1679015
+30000797556
+2049373
+2438281
+10002753625
+1615372
+10004070556
+
+DNP-P
+1583275
+1459114
+30000868213
+3205222
+30000411100
+3391764
+2275989
+2352831
+
+Inactive records:
+
+1029947
+4825782
+4380723
+4148728
+12612401
+1049538
+4389430
+7170063
+12612327
+
+
+https://mysupport.informatica.com/infakb/KBExternal/pages/infasearch.aspx?k=%20ANY%28SIP%2014388%20%20Request%20EJB%20is%20being%20called%20before%20the%20server%20was%20initialized%29%20%28DocType=%22KB%22%29%20%20%20%22SIP-14388%20Request%20EJB%20is%20being%20called%20before%20the%20server%20was%20initialized%22&snz=T&isEX=0&qtp=1&ltz=T&mp=KB&r=DocType=%22AQJLQgdkb2N0eXBlAQFeASQ=%22&ns1=T
+
+
+com.siperian.sif.client.SiperianServerException: SIP-14388: Request EJB is being called before the server was initialized.
+	at com.siperian.sif.client.EjbSiperianClient.handleRemoteException(EjbSiperianClient.java:161)
+	at com.siperian.sif.client.EjbSiperianClient._process(EjbSiperianClient.java:147)
+	at com.siperian.sif.client.SiperianClient.process(SiperianClient.java:174)
+	at com.hibu.siperian.client.impl.SiperianClientWrapper.process(SiperianClientWrapper.java:54)
+	at com.hibu.siperian.client.impl.HibuSiperianClient.getResult(HibuSiperianClient.java:111)
+	at com.hibu.siperian.client.impl.HibuSiperianClientTest.getBusiness_withValidMdbId_companyFoundAndReturned(HibuSiperianClientTest.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:83)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:72)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:231)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:88)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:174)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+Caused by: java.rmi.ServerException: RuntimeException; nested exception is: 
+	com.siperian.common.SipRuntimeException: SIP-14388: Request EJB is being called before the server was initialized.
+	at org.jboss.ejb.plugins.LogInterceptor.handleException(LogInterceptor.java:421)
+	at org.jboss.ejb.plugins.LogInterceptor.invoke(LogInterceptor.java:209)
+	at org.jboss.ejb.plugins.ProxyFactoryFinderInterceptor.invoke(ProxyFactoryFinderInterceptor.java:138)
+	at org.jboss.ejb.SessionContainer.internalInvoke(SessionContainer.java:650)
+	at org.jboss.ejb.Container.invoke(Container.java:1092)
+	at sun.reflect.GeneratedMethodAccessor544.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.jboss.mx.interceptor.ReflectedDispatcher.invoke(ReflectedDispatcher.java:157)
+	at org.jboss.mx.server.Invocation.dispatch(Invocation.java:96)
+	at org.jboss.mx.server.Invocation.invoke(Invocation.java:88)
+	at org.jboss.mx.server.AbstractMBeanInvoker.invoke(AbstractMBeanInvoker.java:264)
+	at org.jboss.mx.server.MBeanServerImpl.invoke(MBeanServerImpl.java:668)
+	at org.jboss.invocation.unified.server.UnifiedInvoker.invoke(UnifiedInvoker.java:232)
+	at org.jboss.remoting.ServerInvoker.invoke(ServerInvoker.java:967)
+	at org.jboss.remoting.transport.socket.ServerThread.completeInvocation(ServerThread.java:791)
+	at org.jboss.remoting.transport.socket.ServerThread.processInvocation(ServerThread.java:744)
+	at org.jboss.remoting.transport.socket.ServerThread.dorun(ServerThread.java:586)
+	at org.jboss.remoting.transport.socket.ServerThread.run(ServerThread.java:234)
+Caused by: com.siperian.common.SipRuntimeException: SIP-14388: Request EJB is being called before the server was initialized.
+	at com.siperian.sif.server.ejb.RequestEjbBean.processTxSupports(RequestEjbBean.java:40)
+	at sun.reflect.GeneratedMethodAccessor559.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.jboss.invocation.Invocation.performCall(Invocation.java:386)
+	at org.jboss.ejb.StatelessSessionContainer$ContainerInterceptor.invoke(StatelessSessionContainer.java:233)
+	at org.jboss.resource.connectionmanager.CachedConnectionInterceptor.invoke(CachedConnectionInterceptor.java:156)
+	at org.jboss.ejb.plugins.StatelessSessionInstanceInterceptor.invoke(StatelessSessionInstanceInterceptor.java:173)
+	at org.jboss.ejb.plugins.CallValidationInterceptor.invoke(CallValidationInterceptor.java:63)
+	at org.jboss.ejb.plugins.AbstractTxInterceptor.invokeNext(AbstractTxInterceptor.java:121)
+	at org.jboss.ejb.plugins.TxInterceptorCMT.runWithTransactions(TxInterceptorCMT.java:378)
+	at org.jboss.ejb.plugins.TxInterceptorCMT.invoke(TxInterceptorCMT.java:181)
+	at org.jboss.ejb.plugins.SecurityInterceptor.process(SecurityInterceptor.java:228)
+	at org.jboss.ejb.plugins.SecurityInterceptor.invoke(SecurityInterceptor.java:211)
+	at org.jboss.ejb.plugins.security.PreSecurityInterceptor.process(PreSecurityInterceptor.java:100)
+	at org.jboss.ejb.plugins.security.PreSecurityInterceptor.invoke(PreSecurityInterceptor.java:84)
+	at org.jboss.ejb.plugins.LogInterceptor.invoke(LogInterceptor.java:205)
+	at org.jboss.ejb.plugins.ProxyFactoryFinderInterceptor.invoke(ProxyFactoryFinderInterceptor.java:138)
+	at org.jboss.ejb.SessionContainer.internalInvoke(SessionContainer.java:650)
+	at org.jboss.ejb.Container.invoke(Container.java:1092)
+	at sun.reflect.GeneratedMethodAccessor544.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.jboss.mx.interceptor.ReflectedDispatcher.invoke(ReflectedDispatcher.java:157)
+	at org.jboss.mx.server.Invocation.dispatch(Invocation.java:96)
+	at org.jboss.mx.server.Invocation.invoke(Invocation.java:88)
+	at org.jboss.mx.server.AbstractMBeanInvoker.invoke(AbstractMBeanInvoker.java:264)
+	at org.jboss.mx.server.MBeanServerImpl.invoke(MBeanServerImpl.java:668)
+	at org.jboss.invocation.unified.server.UnifiedInvoker.invoke(UnifiedInvoker.java:232)
+	at org.jboss.remoting.ServerInvoker.invoke(ServerInvoker.java:967)
+	at org.jboss.remoting.transport.socket.ServerThread.completeInvocation(ServerThread.java:791)
+	at org.jboss.remoting.transport.socket.ServerThread.processInvocation(ServerThread.java:744)
+	at org.jboss.remoting.transport.socket.ServerThread.dorun(ServerThread.java:586)
+	at org.jboss.remoting.transport.socket.ServerThread.run(ServerThread.java:234)
+	at org.jboss.remoting.MicroRemoteClientInvoker.invoke(MicroRemoteClientInvoker.java:211)
+	at org.jboss.remoting.Client.invoke(Client.java:1724)
+	at org.jboss.remoting.Client.invoke(Client.java:629)
+	at org.jboss.invocation.unified.interfaces.UnifiedInvokerProxy.invoke(UnifiedInvokerProxy.java:184)
+	at org.jboss.invocation.InvokerInterceptor.invokeInvoker(InvokerInterceptor.java:365)
+	at org.jboss.invocation.InvokerInterceptor.invoke(InvokerInterceptor.java:197)
+	at org.jboss.proxy.TransactionInterceptor.invoke(TransactionInterceptor.java:61)
+	at org.jboss.proxy.ejb.SecurityContextInterceptor.invoke(SecurityContextInterceptor.java:64)
+	at org.jboss.proxy.SecurityInterceptor.invoke(SecurityInterceptor.java:68)
+	at org.jboss.proxy.ejb.StatelessSessionInterceptor.invoke(StatelessSessionInterceptor.java:112)
+	at org.jboss.proxy.ClientContainer.invoke(ClientContainer.java:101)
+	at com.sun.proxy.$Proxy13.processTxSupports(Unknown Source)
+	at com.siperian.sif.client.EjbSiperianClient._process(EjbSiperianClient.java:132)
+	at com.siperian.sif.client.SiperianClient.process(SiperianClient.java:174)
+	at com.hibu.siperian.client.impl.SiperianClientWrapper.process(SiperianClientWrapper.java:54)
+	at com.hibu.siperian.client.impl.HibuSiperianClient.getResult(HibuSiperianClient.java:111)
+	at com.hibu.siperian.client.impl.HibuSiperianClientTest.getBusiness_withValidMdbId_companyFoundAndReturned(HibuSiperianClientTest.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:83)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:72)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:231)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:88)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:174)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+
+
+com.siperian.sif.client.SiperianServerException: SIP-14107: Unexpected error occurred while processing request: GetRequest
+Could not initialize class com.siperian.sam.common.SAManager
+Review the server log for more details.
+	at com.siperian.sif.client.HttpSiperianClient._process(HttpSiperianClient.java:132)
+	at com.siperian.sif.client.SiperianClient.process(SiperianClient.java:174)
+	at com.hibu.siperian.client.impl.SiperianClientWrapper.process(SiperianClientWrapper.java:54)
+	at com.hibu.siperian.client.impl.HibuSiperianClient.getResult(HibuSiperianClient.java:111)
+	at com.hibu.siperian.client.impl.HibuSiperianClientTest.getBusiness_withValidMdbId_companyFoundAndReturned(HibuSiperianClientTest.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:83)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:72)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:231)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:88)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:174)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+Caused by: com.siperian.sif.message.SiperianRequestException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at java.lang.Class.newInstance(Class.java:374)
+	at org.exolab.castor.util.DefaultObjectFactory.createInstance(DefaultObjectFactory.java:107)
+	at org.exolab.castor.xml.UnmarshalHandler.createInstance(UnmarshalHandler.java:2510)
+	at org.exolab.castor.xml.UnmarshalHandler.startElement(UnmarshalHandler.java:1642)
+	at org.exolab.castor.xml.UnmarshalHandler.startElement(UnmarshalHandler.java:1373)
+	at org.apache.xerces.parsers.AbstractSAXParser.startElement(Unknown Source)
+	at org.apache.xerces.impl.dtd.XMLDTDValidator.startElement(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.scanStartElement(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentScannerImpl$ContentDispatcher.scanRootElementHook(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl$FragmentContentDispatcher.dispatch(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at org.apache.xerces.parsers.AbstractSAXParser.parse(Unknown Source)
+	at org.apache.xerces.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.exolab.castor.xml.Unmarshaller.unmarshal(Unmarshaller.java:729)
+	at org.exolab.castor.xml.Unmarshaller.unmarshal(Unmarshaller.java:621)
+	at com.siperian.sif.message.CastorUtil.xmlStringToBean(CastorUtil.java:395)
+	at com.siperian.sif.client.HttpSiperianClient._process(HttpSiperianClient.java:129)
+	... 32 more
+
+
+
+
+2076000
+1087
+
+2081000
+1021
+
+9886312281
+Vikram Nadeem
+-XX:-UseSplitVerifier
+http://vikashazrati.wordpress.com/2011/10/09/quicktip-verifyerror-with-jdk-7/
+
+update site for Jmeter:
+http://hudson-ci.org/update-center3/update-center.json
+version: 1.395
+
+<repository>
+    <id>libs-snapshots-global</id>
+    <name>libs-snapshots-global</name>
+    <url>http://yell-arquitectura.artifactoryonline.com/yell_arquitectura/libs-snapshots-global</url>
+    <snapshots>
+      <enabled>true</enabled>
+    </snapshots>
+  </repository>
+
+
+
+	try {
+				domainObject = DomainObject.newDomainObject(BusinessDomainObject.class, "MBD", "123321");
+				if(customer.getIdentity().getBusinessAddress() != null && customer.getIdentity().getBusinessAddress().getAddress() != null){
+						domainObject.setAddressLine1(customer.getIdentity().getBusinessAddress().getAddress().getValue().getStreetName());
+						domainObject.setCity(customer.getIdentity().getBusinessAddress().getAddress().getValue().getCityLocality());
+				}
+				domainObject.setCompanyName(customer.getIdentity().getComercialBusinessName());
+				domainObject.setBusinessType(customer.getType());
+				domainObject.setCountry(customer.getIdentity().getCountry());
+				return customerDao.saveOrUpdateCustomer(domainObject,messageId, null);
+
+
+
+
+https://blog.codecentric.de/en/2012/03/integration-of-a-transaction-manager-in-tomcat-for-spring-and-openjpa/
+http://www.javacodegeeks.com/2013/07/spring-jta-multiple-resource-transactions-in-tomcat-with-atomikos-example.html
+http://www.byteslounge.com/tutorials/spring-jta-multiple-resource-transactions-in-tomcat-with-atomikos-example
+http://www.byteslounge.com/tutorials/spring-jta-multiple-resource-transactions-in-tomcat-with-atomikos-example
+http://gaob.blogspot.in/2009/11/error-in-recovery-comatomikosdatasource.html
+http://fogbugz.atomikos.com/default.asp?community.6.3138.0
+
+
+http://stackoverflow.com/questions/12623955/how-to-use-a-dynamic-persistencecontext-with-hibernate-and-jboss-as-7-connectio
+
+http://stackoverflow.com/questions/8784302/dynamic-persistencecontext-unitname-attribute-for-container-based-entitymanager
+
+http://insidecoding.com/2011/09/07/the-generic-dao-pattern-in-java-with-spring-3-and-jpa-2-0/#more-75
+
+http://java.dzone.com/articles/jpa-implementation-patterns
+
+http://best-practice-software-engineering.blogspot.in/2008/01/java-generic-dao.html
+
+<item name="Create Customer From Billing Information Request" href="request_createCustomerFromBillingInformation.html" />
+
+
+subclass of BDO to be instantiated.
+
+
+http://stackoverflow.com/questions/17133717/cobertura-doesnt-work-with-java-7
+http://stackoverflow.com/questions/17133717/cobertura-doesnt-work-with-java-7
+http://nagareddyss.wordpress.com/2013/06/04/java-lang-verifyerror-issue-on-sonar-build/
+
