@@ -22,7 +22,7 @@ public class Main {
 		TestJpaTableEntity user = new TestJpaTableEntity();
 		user.setADDRESS("address 4");
 		user.setNAME("test");
-		user.setPHONE("123456789");
+		user.setPHONE("23564");
 		userManager.insertUser(user);
 		
 		System.out.println("User inserted!");
