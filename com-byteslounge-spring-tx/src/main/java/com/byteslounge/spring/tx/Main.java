@@ -24,6 +24,10 @@ public class Main {
 		user.setNAME("test");
 		user.setPHONE("0997897");
 		userManager.insertUser(user);
+		
+		System.out.println("User inserted!");
+		System.out.println("User inserted!");
+		System.out.println("User inserted!");
 		System.out.println("User inserted!");
 		System.out.println("User inserted!");
 //		list = userManager.findAllUsers();
