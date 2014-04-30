@@ -36,6 +36,7 @@ public class JavaEightFeaturesTest {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
 	}
 
 	@Test
