@@ -33,5 +33,6 @@
 	</bean>
 	<bean id="test1" class="com.byteslounge.spring.tx.TestBean"/>
 	
+	<bean id="helloDao1" class=" ">
 
 </beans>
