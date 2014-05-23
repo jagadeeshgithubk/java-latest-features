@@ -11,6 +11,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
+import java.util.Set;
+import java.util.TreeMap;
+import java.util.TreeSet;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -221,6 +224,48 @@ public class JavaEightFeaturesTest {
 		}
 		return list;
 	}
+	
+	@Test
+	public void testHighest(){
+		
+		TreeMap<TestTreeSet, String> treeMap = new TreeMap<>();
+		treeMap.put(new TestTreeSet(9), "one");
+		treeMap.put(new TestTreeSet(7), "one");
+		treeMap.put(new TestTreeSet(3), "one");
+		
+		Set<TestTreeSet> keySet = treeMap.keySet();
+		for (TestTreeSet testTreeSet : keySet) {
+			System.out.println(testTreeSet.getNumber());
+		}
+		/*
+		TreeSet<TestTreeSet> treeSet = new TreeSet<>();
+		treeSet.add(new TestTreeSet(9));
+		treeSet.add(new TestTreeSet(1));
+		treeSet.add(new TestTreeSet(0));
+		
+		for (TestTreeSet testTreeSet : treeSet) {
+			
+			System.out.println(testTreeSet.getNumber());
+		}*/
+		
+		int a[] = {9,83,81,67};
+		int firstHigh = 0;
+		int secondhigh = 0;
+		for(int i=0;i<a.length;i++){
+			firstHigh = a[i]>firstHigh?a[i]:firstHigh;
+		}
+
+		for(int i=0;i<a.length;i++){
+			secondhigh = a[i]>secondhigh && a[i]<firstHigh?a[i]:secondhigh;
+		}
+
+		System.out.println(firstHigh+":"+secondhigh);
+		
+	}
+	
+
+	
+	
 	
 	
 }
