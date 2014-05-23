@@ -22,8 +22,12 @@ public class Main {
 		TestJpaTableEntity user = new TestJpaTableEntity();
 		user.setADDRESS("address 4");
 		user.setNAME("test");
-		user.setPHONE("0997897");
+		user.setPHONE("100000009");
 		userManager.insertUser(user);
+		
+		System.out.println("User inserted!");
+		System.out.println("User inserted!");
+		System.out.println("User inserted!");
 		System.out.println("User inserted!");
 		System.out.println("User inserted!");
 //		list = userManager.findAllUsers();
