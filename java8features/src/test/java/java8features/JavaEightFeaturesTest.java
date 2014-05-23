@@ -261,6 +261,15 @@ public class JavaEightFeaturesTest {
 
 		System.out.println(firstHigh+":"+secondhigh);
 		
+		
+		String text= "madammadam";
+		char[] charArray = text.toCharArray();
+		
+		StringBuffer afterConversion=new StringBuffer();
+		for (int i = charArray.length-1; i >= 0; i--) {
+			afterConversion.append(charArray[i]);
+		}
+		System.out.println("palandrum:"+text.equalsIgnoreCase(afterConversion.toString()));
 	}
 	
 
