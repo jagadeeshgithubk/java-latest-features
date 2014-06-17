@@ -9,17 +9,31 @@ import java.io.PrintStream;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Enumeration;
+import java.util.HashSet;
+import java.util.Hashtable;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.ListIterator;
+import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
+import java.util.Vector;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import org.junit.Test;
+
+import com.sun.xml.internal.fastinfoset.algorithm.IEEE754FloatingPointEncodingAlgorithm;
 
 public class JavaEightFeaturesTest {
 
@@ -226,18 +240,31 @@ public class JavaEightFeaturesTest {
 	}
 	
 	@Test
-	public void testHighest(){
+	public void testHighest() throws InterruptedException{
 		
-		TreeMap<TestTreeSet, String> treeMap = new TreeMap<>();
-		treeMap.put(new TestTreeSet(9), "one");
-		treeMap.put(new TestTreeSet(7), "one");
-		treeMap.put(new TestTreeSet(3), "one");
+	/*	TreeMap<TestTreeSet, String> treeMap = new TreeMap<>();
+		treeMap.put(new TestTreeSet(7,"test1"), "one");
+		treeMap.put(new TestTreeSet(7,"test"), "two");
+		treeMap.put(new TestTreeSet(3,"test3"), "three");
 		
+		
+		System.out.println(treeMap);
 		Set<TestTreeSet> keySet = treeMap.keySet();
 		for (TestTreeSet testTreeSet : keySet) {
-			System.out.println(testTreeSet.getNumber());
-		}
-		/*
+			System.out.println(testTreeSet.getNumber()+":"+treeMap.get(testTreeSet));
+		}*/
+		
+/*		Map<TestTreeSet, String> linkedHashSet = new LinkedHashMap<>();
+		linkedHashSet.put(new TestTreeSet(7,"test"), "one");
+		linkedHashSet.put(new TestTreeSet(7,"test"), "one");
+		linkedHashSet.put(new TestTreeSet(3,"test"), "one");
+		
+		System.out.println(linkedHashSet);
+		HashSet<Object> hashSet = new HashSet<>();
+		hashSet.add(null);
+		boolean add = hashSet.add(2);
+		System.out.println(add);
+*/		/*
 		TreeSet<TestTreeSet> treeSet = new TreeSet<>();
 		treeSet.add(new TestTreeSet(9));
 		treeSet.add(new TestTreeSet(1));
@@ -248,7 +275,7 @@ public class JavaEightFeaturesTest {
 			System.out.println(testTreeSet.getNumber());
 		}*/
 		
-		int a[] = {9,83,81,67};
+	/*	int a[] = {9,83,81,67};
 		int firstHigh = 0;
 		int secondhigh = 0;
 		for(int i=0;i<a.length;i++){
@@ -260,21 +287,51 @@ public class JavaEightFeaturesTest {
 		}
 
 		System.out.println(firstHigh+":"+secondhigh);
+		*/
 		
+		List<String> asList = Arrays.asList("madammadam","madammadammadam","neen");
 		
-		String text= "madammadam";
-		char[] charArray = text.toCharArray();
+		String largestPalandrum="";
 		
-		StringBuffer afterConversion=new StringBuffer();
-		for (int i = charArray.length-1; i >= 0; i--) {
-			afterConversion.append(charArray[i]);
+		for (String string : asList) {
+			char[] charArray = string.toCharArray();
+			
+			StringBuffer afterConversion=new StringBuffer();
+			for (int i = charArray.length-1; i >= 0; i--) {
+				afterConversion.append(charArray[i]);
+			}
+			boolean equalsIgnoreCase = string.equalsIgnoreCase(afterConversion.toString());
+			if(equalsIgnoreCase){
+				largestPalandrum=(largestPalandrum.length()<afterConversion.toString().length())?afterConversion.toString():largestPalandrum;
+			}
 		}
-		System.out.println("palandrum:"+text.equalsIgnoreCase(afterConversion.toString()));
+		System.out.println("Largest palandrum:"+largestPalandrum);
+	
+/*		ArrayList<Object> arrayList = new ArrayList<>(1);
+		arrayList.add("dsfsd");
+		arrayList.add("sddsfsd");
+//		System.out.println(arrayList);
+		
+		Vector<Object> vector = new Vector<>();
+		Enumeration<Object> elements = vector.elements();
+		
+		
+	List<String> linkedList = new LinkedList<>();
+	linkedList.add(0, "1");
+	linkedList.add(1, "2");
+	linkedList.add(2, "3");
+	
+	ListIterator<String> iterator = linkedList.listIterator();
+	iterator.next();
+	iterator.remove();
+	while(iterator.hasNext()){
+		System.out.println(iterator.next());
 	}
+*/	
 	
-
-	
-	
-	
+//	System.out.println(linkedList);
+		Thread thread = new Thread();
+	}
+		
 	
 }
