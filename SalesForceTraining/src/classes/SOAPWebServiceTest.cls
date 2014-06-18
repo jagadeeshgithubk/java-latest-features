@@ -6,5 +6,6 @@ global class SOAPWebServiceTest
         Book__c loadedBook = [SELECT Name FROM Book__c where id=:Name];
         return 'Book name for the given ID is : '+loadedBook.Name;
         //return 'Hello .......'+Name+'..... from SalesForce.com';
+        //test
     }
 }
