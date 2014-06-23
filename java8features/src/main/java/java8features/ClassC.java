@@ -9,5 +9,4 @@ public class ClassC implements ClassA,ClassB{
 		
 	}
 	
-	
 }

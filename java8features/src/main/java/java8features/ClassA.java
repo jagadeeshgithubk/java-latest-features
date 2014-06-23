@@ -7,3 +7,5 @@ interface ClassA{
 		System.out.println("test");
 	}
 }
+
+
