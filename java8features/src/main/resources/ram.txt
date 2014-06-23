@@ -117,6 +117,9 @@ BTM LAYOUT
 		 * Copy sources to Cmptape Grid Store.
 		 * @param modelsToBeMoved the models to be moved
 		 */
+		 
+		 
+		 
 copySourcesToCmpTapeStore
 netBKnopassword@999
 
@@ -1070,7 +1073,7 @@ Teaming : Contributes & builds harmonious relationship with other teams. Is a te
 12.	Quality Adherence : Displays basic quality consciousness in all activities. Maintains integrity in all his/her actions.		
 13.	Consistency : Displays consistency in all activities. Delivering consistently in what he/she commits.		
 14.	Functional Capability : Is good at work related competencies that are required to perform his/her job effectively.		
-15.	Customer Orientation : Understand customer requirements from one’s own job and has customer focus in all his/her activities.
+15.	Customer Orientation : Understand customer requirements from oneï¿½s own job and has customer focus in all his/her activities.
 
 
 
@@ -2251,7 +2254,8 @@ In grid comments when there are no comments for the current we are displaying pr
 
 
 To load previous year sections into the current year when there are no current year sections:
-- Change the logic in 'getSecGrids()' of 'WYGClientServiceImpl' to pull previous year sections when current year secions list size is '0'
+- Change the logic in 'getSecGrids()' of 'WYGClientServiceImpl' to pull previous year sections 
+when current year secions list size is '0'
 .
 - When current year 'SecGrid' size is 0, get the previous 'GridEntry' by passing 'book code' and 'FY - 1'.
 - After getting 'GridEntry' pass the 'grid id' and get list of 'SecGrid'. 
@@ -2260,7 +2264,8 @@ To save the previous year sections into the current year:
 - When previous year sections are loaded into the current year on click of save we should save those sections into the current year for that change logic in UI side:
 	-Change the logic in UI side in displaying 'There are no changes to save' alert message.
 -  Change the logic in 'saveSectGrid()' method of  WYGClientServiceImpl. 
--  Add additional current year 'grid id' field to the above method to save previous year sections into the current  year.
+-  Add additional current year 'grid id' field to the above method to save previous year sections into the current  
+year.
 
 
 
@@ -2330,11 +2335,15 @@ Querueis on  right click 'Included community comment' requirement:
 
 1 . Requirement says that we need to include the  'Included community comment ' option  on right click(for 'orange' and 'blue' records), and user should select 'Included Community Comment ' option to insert  new comment  in to 'Grid Comments' on click of save button(when char length exceeds 500 chars).       What if user doesn't select right click 'Included Community Comment'  option and click on save directly(when char limit exceeds 500). - Is it required to include 'Included Community Comment ' option to right click menu?
 
-2. As per the requirement new comment should be inserted into 'Grid Comments' when 'Included Community' field limit exceeds 500 chars, in that case what to be inserted in to 'Inc_Community’ column of  'WYG' table - Is it "See Comments" as string?.
+2. As per the requirement new comment should be inserted into 'Grid Comments'
+ when 'Included Community' field limit exceeds 500 chars, in that case what to be inserted in to 'Inc_Communityï¿½ column of  'WYG' table - Is it "See Comments" as string?.
 
-3. Consider the below senario: 
-Suppose if 'Inluded Community' text exceeds more than 4000 chars we will create two comments in the 'Grid Comments'
-(one for the 4000 chars, and other for the overflow)
+
+3. Consider the below senario: 
+Suppose if 'Inluded Community' text exceeds more than 4000 chars we will create 
+two comments in the 'Grid Comments'
+
+(one for the 4000 chars, and other for the overflow)
 
 Just in case if user deletes those two comments from the 'Grid Comments' what status should be shown on 'Included Community' field of stage1 and stage2.
 
@@ -2359,7 +2368,8 @@ Tasks:
 	     }
 	
 2. Check whether the 'inlcuded community' char size exceeds 500 chars:
-When size exceeds more than 500, create new 'Grid Comments' object by getting 'recId' from 'WYG'
+When size exceeds more than 500, create new 'Grid Comments' object by getting 'recId
+' from 'WYG'
 and 'Inluded Community cooment' id from 'Comments' table.
 	Changes:
 	Class : 'WYGClientServiceImpl.java' , 
@@ -2422,7 +2432,8 @@ comm3  ------------------------------ Inc Community(Lets think it exceeds '4000'
 In such senario how many 'Grid Comments' should be inserted( 1 or 3)?
 
 
-When we have same 'Community'  and different 'Included Communities'  as follows:
+When we have same 'Community' 
+ and different 'Included Communities'  as follows:
 Community                                       Included Community
 
 comm1  ------------------------------ Inc Community1 (Lets think it exceeds '4000' chars)
@@ -2531,7 +2542,8 @@ http://grepcode.com/file/repo1.maven.org/maven2/com.sencha.gxt/gxt/3.0.0-beta4/c
 
 Analysis on G&S on the Queues - Search Source Side Data :
 
-1.  Provide a new button on source side data to get the  pop up menu which contains 'Search interface for source side data'( similar to the force bottom pop up).
+1.  Provide a new button on source side data to get the  pop up menu which contains 'Search interface for source side data'
+( similar to the force bottom pop up).
 2. The search interface includes two diffrent category of searches:
 	- Phone number Search
 	- Business Name search along with  city and state (city optional) as it is there in the LM and NR. 
@@ -2886,9 +2898,11 @@ Services to fetch the results based on search criteria:
 1. Create a new service call which takes search criteria as an input:
      SearchResult  getResultsBySearchCriteria(SearchCriteria searchCriteria)  {
            // If search criteria contains only zip information:
-                        Fetch from 'MASTER_BASE_RECORDS' by matching zipcode by doing like search on the zip code field
+                        Fetch from 
+'MASTER_BASE_RECORDS' by matching zipcode by doing like search on the zip code field
           // If Search criteria also contains 'Headings' information:
-	Fetch from 'COMPANY_HEADINGCODE' by matching 'company_id'(which is retrieved from the 'MASTER_BASE_RECORDS')  to pull the 'print' headings
+	Fetch from 'COMPANY_HEADINGCODE' by matching 'company_id'(which is retrieved from the 
+'MASTER_BASE_RECORDS')  to pull the 'print' headings
         }
 
      SearchCriteria contains following information:
@@ -2896,7 +2910,8 @@ Services to fetch the results based on search criteria:
       - Heading codes information(there can be multiple )		
 
      SearchResult contains following information:
-     - List of 'MASTER_BASE_RECORDS' for the matching search criteria
+     - List of 
+'MASTER_BASE_RECORDS' for the matching search criteria
      -  List of 'COMPANY_HEADINGCODE'  for the macthing 'company_id'('print' headings)
 
 	      
@@ -3145,7 +3160,7 @@ Analysis on 9 Cross browser compatibility - Book Extraction :
 
 Make the following changes:
 Remove the padding (left/right) have been set on the fields, and stop using padding on fields for alignments. Instead of padding use Gxt Horizonatal Panel and set the alignment.
-Rather than adding field directly to the Gxt ‘FormPanel’ , add those to ‘LayoutContainer’ with ‘MdbFormLayout’ and finally add this layout container to the form panel.
+Rather than adding field directly to the Gxt ï¿½FormPanelï¿½ , add those to ï¿½LayoutContainerï¿½ with ï¿½MdbFormLayoutï¿½ and finally add this layout container to the form panel.
 Check whether we are using any regex on Gxt/Gwt compontents to stop user events, which leads to navigation issues(tab, shift-tab, shift-home, shift-delete) etc.
 
 
