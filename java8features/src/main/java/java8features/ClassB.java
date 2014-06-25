@@ -8,4 +8,6 @@ interface ClassB{
 	default public void display(){
 		System.out.println("test");
 	}
+	
+	
 }
