@@ -6,6 +6,7 @@ interface ClassA{
 	default public void display(){
 		System.out.println("test");
 	}
+	
 }
 
 
